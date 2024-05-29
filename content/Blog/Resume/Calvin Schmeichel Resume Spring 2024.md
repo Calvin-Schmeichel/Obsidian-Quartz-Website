@@ -13,7 +13,7 @@ Bachelor of Science in Cybersecurity from St. Cloud State University (SCSU) 2020
 ###### IT Intern at 3M Full Time over Summer (Hybrid) | May 2023 - August 2023
 -  Worked on the technical platforms team to help research and implement a new security framework (Wiz.io) into their CI/CD pipeline for development teams to use in their enterprise applications.    
 - Got to meet and interview with many full time 3M employees in Cybersecurity and related fields.
-###### Shift Lead/Apple Specialist/Sales Best Buy Blaine & St. Cloud MN Locations (In-Person) August 2018 - November 2023
+###### [[Best Buy Timeline|Shift Lead/Apple Specialist/Sales Best Buy Blaine & St. Cloud MN Locations (In-Person) August 2018 - November 2023]]
 - Developed strong teamwork, communication and management skills.
 - Was a member of the top computer sales team nationwide for Best Buy in 2018 and 2019 at Blaine, MN and individual top performer.
 ### Involvement
