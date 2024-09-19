@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - Rounded_Corners
+---
 
 ### November 1st 2019 | Ordered my fist Gaming mouse and keyboard
 
@@ -21,7 +25,7 @@ Parts list:
 ### January 12th 2020 | Upgraded keyboard and mousepad
 
 - Razer - Huntsman Tournament Edition TKL Wired Optical Linear Switch Gaming Keyboard with Chroma RGB Backlighting - Black
-- Razer - Goliathus Extended Chroma Gaming Mouse Pad with RGB Lighting - Black
+	- Razer - Goliathus Extended Chroma Gaming Mouse Pad with RGB Lighting - Black
 
 ### June 24th 2020 | WiFi Card Upgrade
 ![[Asus_Wifi_Card.jpg]]

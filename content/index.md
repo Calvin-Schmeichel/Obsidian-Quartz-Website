@@ -4,12 +4,11 @@ title: Welcome to calvinschmeichel.com!
 
 # Hello there! Welcome to my Blog/Portfolio site!
 
-## Most Recent Post
+## Most Recent Post(s)
 - [[My Thoughts on SOC 2]]
     - [Vanta Certified](https://vanta-audit-academy.workramp.io/certificate/_ocrdLGSkA)
-
 ## Navigation
-- [[Blog/posts/|Blog Posts]]
+- [[Blog/Posts/|Blog Posts]]
 - [[Blog/Resume/|Resume Information]]
 - [[Certifications]]
 
