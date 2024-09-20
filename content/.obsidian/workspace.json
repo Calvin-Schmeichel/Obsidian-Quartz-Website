@@ -1,22 +1,30 @@
 {
   "main": {
-    "id": "4682ecb86b416eef",
+    "id": "8941491cfa26e770",
     "type": "split",
     "children": [
       {
-        "id": "4af2e13d36877fa8",
+        "id": "9e08c30a94ec11dd",
         "type": "tabs",
         "children": [
           {
-            "id": "a46d8e0918e92905",
+            "id": "263ce2722d4b5ff1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Posts/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "216ec7c13274769c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +33,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "589d599846c3b722",
+    "id": "6569c6ea6112b675",
     "type": "split",
     "children": [
       {
-        "id": "b3ff0de85b00c9ef",
+        "id": "77fc8d8eae0221be",
         "type": "tabs",
         "children": [
           {
-            "id": "a31aa519951f5f96",
+            "id": "8495d8a2c986a94f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +51,7 @@
             }
           },
           {
-            "id": "be013f46be11f63f",
+            "id": "db6d4ea1852a959c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +66,7 @@
             }
           },
           {
-            "id": "36a3cc018eb6744f",
+            "id": "8538c1a7f5fdc36b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
-    "id": "36831ad8ba835ff3",
+    "id": "b856efae28674875",
     "type": "split",
     "children": [
       {
-        "id": "620f5c5b0ebdd6d3",
+        "id": "6fc1933172a9a05a",
         "type": "tabs",
         "children": [
           {
-            "id": "58ebfb520d05c853",
+            "id": "143eed30b79b48cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Posts/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "f0fe41539c9670fa",
+            "id": "0598ca7d3863b6a0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Posts/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "14b44b1cbc16fb32",
+            "id": "b388a1d9d475ae99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +128,12 @@
             }
           },
           {
-            "id": "7d701e682e7c0413",
+            "id": "e73f97ee0c37c36d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Posts/index.md"
+                "file": "index.md"
               }
             }
           }
@@ -146,25 +154,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a46d8e0918e92905",
+  "active": "8495d8a2c986a94f",
   "lastOpenFiles": [
+    "Blog/Posts/Personal Computer Timeline.md",
+    "Blog/Posts/My Thoughts on SOC 2.md",
+    "Images/Asus_Wifi_Card.jpg",
+    "Images/RM650_PowerSupply.jpg",
+    "Images/RM650_PowerSupply.jpg:Zone.Identifier",
+    "Images/Asus_Wifi_Card.jpg:Zone.Identifier",
+    "Images",
     "Blog/index.md",
     "Blog/Posts/index.md",
-    "Blog/Media/Index.md",
-    "About Me/About Calvin.md",
-    "index.md",
-    "Blog/Posts/My Thoughts on SOC 2.md",
+    "Blog/Resume/index.md",
+    "Blog/Resume/Certifications.md",
+    "Blog/Resume/Untitled.md",
     "Blog/Posts/firstpost.md",
-    "Blog/Posts/Personal Computer Timeline.md",
-    "Blog/Posts/Posts.md",
-    "About Me/Resume/index.md",
-    "Blog/Posts/index.md",
+    "index.md",
     "blog.md",
-    "A1/Untitled.md",
-    "A1",
-    "About Me",
-    "Blog/Media/RM650_PowerSupply.jpg",
-    "Blog/Media/Asus_Wifi_Card.jpg",
-    "Blog/posts.md"
+    "Blog/posts.md",
+    "Blog/Resume.md",
+    "Blog/posts 1.md",
+    "Blog/posts 2.md",
+    "Blog/posts/posts.md"
   ]
 }
