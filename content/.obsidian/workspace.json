@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e08c30a94ec11dd",
+        "id": "64d9942acfdce706",
         "type": "tabs",
         "children": [
           {
-            "id": "263ce2722d4b5ff1",
+            "id": "6b576dba293e14b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "216ec7c13274769c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -154,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8495d8a2c986a94f",
+  "active": "6b576dba293e14b7",
   "lastOpenFiles": [
+    "index.md",
     "Blog/Posts/Personal Computer Timeline.md",
     "Blog/Posts/My Thoughts on SOC 2.md",
     "Images/Asus_Wifi_Card.jpg",
@@ -169,7 +162,6 @@
     "Blog/Resume/Certifications.md",
     "Blog/Resume/Untitled.md",
     "Blog/Posts/firstpost.md",
-    "index.md",
     "blog.md",
     "Blog/posts.md",
     "Blog/Resume.md",
