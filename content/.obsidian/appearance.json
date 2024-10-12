@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "Rounded_Corners",
     "Image_Size_Defaults"
-  ]
+  ],
+  "theme": "obsidian"
 }
