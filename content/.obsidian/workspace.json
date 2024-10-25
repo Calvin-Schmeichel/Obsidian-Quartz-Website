@@ -11,10 +11,14 @@
             "id": "00cb6ca2864651e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How Clash Royale Deck Link manipulation got me into Programming"
             }
           }
         ]

@@ -11,7 +11,11 @@ Now you are probably wondering how a [RTS](https://en.wikipedia.org/wiki/Real-ti
 [Clash Royale](https://supercell.com/en/games/clashroyale/) mobile video game developed and published by [Supercell](https://supercell.com/en/about-us/). The game combines elements from collectible card games, tower defense, and multiplayer online battle arena that was released back in 2016.
 
 Early on when the game was still fresh Supercell would release short limited time game modes to mix up gameplay. Two of first waves of game modes was the "[King's Cup Challenge](https://supercell.com/en/games/clashroyale/blog/news/kings-cup-challenge-tournament/)" and "[Blind Deck Challenge](https://x.com/clashroyale/status/804234476377305088)" which both contained variations of random decks for players to use. But with most things, these events came and went always leaving the feeling of wanting to play them a bit more.
+
+
 ![[Clash_Royale_All_Golem_Deck_Link.jpeg|200]]
+
+
 ### Release of Deck Links
 Clash Royale would later push out a new feature called "Deck Links" this would be a feature to allow you to send your friends links to your favorite decks. I immediately started sharing decks with my friends when I began to notice the link format.
 
