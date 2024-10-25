@@ -15,7 +15,7 @@ Early on when the game was still fresh Supercell would release short limited tim
 ### Release of Deck Links
 Clash Royale would later push out a new feature called "Deck Links" this would be a feature to allow you to send your friends links to your favorite decks. I immediately started sharing decks with my friends when I began to notice the link format.
 
-![[Clash_Royale_Deck_Link_Example.png|center|600]]
+![[Clash_Royale_Deck_Link_Example.png|600]]
 
 ```Deck Link
 link.clashroyale.com/deck/en?deck=26000009;26000037;28000008;26000000;26000045;26000014;28000009;26000041
@@ -36,7 +36,7 @@ I would eventually manually log each deck ID and safe it in a draft Shortcut lis
 |     |     |     | ...       | ...      |     |     |     |
 
 This would also lead to some fun (8 of the same card IDs):
-![[Clash_Royale_All_Golem_Deck_Link.jpeg|center|400]]
+![[Clash_Royale_All_Golem_Deck_Link.jpeg|400]]
 ```Deck Link
 link.clashroyale.com/en?clashroyale://copyDeck?deck=26000009;26000009;26000009;26000009;26000009;26000009;26000009;26000009;&slots=0;0;0;0;0;0;0;0&tt=159000000
 ```
