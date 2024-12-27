@@ -11,14 +11,10 @@
             "id": "00cb6ca2864651e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Posts/Personal Computer Timeline.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Personal Computer Timeline"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "b856efae28674875",
@@ -164,15 +160,10 @@
   },
   "active": "00cb6ca2864651e1",
   "lastOpenFiles": [
-    "Blog/index.md",
-    "About Me/About Calvin.md",
-    "About Me/Resume/Calvin Schmeichel Resume Spring 2024.md",
-    "About Me/Resume/Best Buy Timeline.md",
-    "index.md",
-    "Blog/Posts/index.md",
-    "About Me/Resume/index.md",
+    "Blog/calvinschmeichel.com Brand Style Guide.md",
     "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
     "Blog/Posts/Untitled.md",
+    "index.md",
     "Blog/Posts/Personal Computer Timeline.md",
     "Blog/Posts/My Thoughts on SOC 2.md",
     "Images/Asus_Wifi_Card.jpg",
@@ -180,6 +171,8 @@
     "Images/RM650_PowerSupply.jpg:Zone.Identifier",
     "Images/Asus_Wifi_Card.jpg:Zone.Identifier",
     "Images",
+    "Blog/index.md",
+    "Blog/Posts/index.md",
     "Blog/Resume/index.md",
     "Blog/Resume/Certifications.md",
     "Blog/Resume/Untitled.md",

@@ -8,8 +8,8 @@ title: Welcome to calvinschmeichel.com!
 - [[My Thoughts on SOC 2]]
     - [Vanta Certified](https://vanta-audit-academy.workramp.io/certificate/_ocrdLGSkA)
 ## Navigation
-- [Blog Posts](Blog/Posts/index.md)
-- [[About Me/Resume/index|Resume Information]]
+- [[Blog/Posts/|Blog Posts]]
+- [[Blog/Resume/|Resume Information]]
 - [[Certifications]]
 
 ### Recent Activity
