@@ -1,7 +1,10 @@
 {
   "accentColor": "#5c9ef5",
   "enabledCssSnippets": [
-    "temp"
+    "temp",
+    "Centered_Images",
+    "Rounded_Corners",
+    "Centered_Tables"
   ],
   "theme": "obsidian"
 }

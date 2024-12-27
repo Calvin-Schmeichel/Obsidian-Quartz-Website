@@ -1,0 +1,16 @@
+/*
+table, .Centered_Tables {
+    margin-inline: auto;
+}
+*/
+/*
+table, .table-wrapper  {
+    margin-inline: auto;
+}
+*/
+
+.Centered_Tables table,
+.Centered_Tables .table-wrapper {
+  margin-inline: auto;
+}
+

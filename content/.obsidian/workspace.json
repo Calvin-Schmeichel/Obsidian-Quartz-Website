@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Posts/My Thoughts on SOC 2.md",
+                "file": "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Thoughts on SOC 2"
+              "title": "How Clash Royale Deck Link manipulation got me into Programming"
             }
           }
         ]
@@ -162,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8495d8a2c986a94f",
+  "active": "0934b5924734764f",
   "lastOpenFiles": [
+    "Blog/Posts/My Thoughts on SOC 2.md",
     "Blog/Posts/firstpost.md",
     "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
     "Blog/Posts/index.md",
-    "Blog/Posts/My Thoughts on SOC 2.md",
     "Blog/index.md",
     "index.md",
     "Blog/Posts/Personal Computer Timeline.md",

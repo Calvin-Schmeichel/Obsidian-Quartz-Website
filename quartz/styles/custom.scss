@@ -6,3 +6,15 @@
     display: block;
     margin: 1rem auto;
   }
+
+/* old (works on quartz but not obsidian) 12/26/2024
+.Centered_Tables table {
+    margin-inline: auto;
+}
+*/
+
+// New (works on both quartz and obsidian) 12/26/2024
+.Centered_Tables table,
+.Centered_Tables .table-wrapper {
+  margin-inline: auto;
+}
