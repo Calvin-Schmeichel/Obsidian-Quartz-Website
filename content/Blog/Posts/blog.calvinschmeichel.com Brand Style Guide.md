@@ -6,7 +6,6 @@ description: Description Example
 permalink: Brand-Style-Guide
 tags:
   - "#Brand_Style_Guide"
-draft: "false"
 date: 2024-12-23
 ---
 %%Brand-Style-Guide%%
