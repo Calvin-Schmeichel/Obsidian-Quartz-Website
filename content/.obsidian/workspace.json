@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Blog/calvinschmeichel.com Brand Style Guide.md",
+=======
+                "file": "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
+>>>>>>> parent of f8c4579 (Quartz sync: Dec 26, 2024, 8:20 PM)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "calvinschmeichel.com Brand Style Guide"
+=======
+              "title": "How Clash Royale Deck Link manipulation got me into Programming"
+>>>>>>> parent of f8c4579 (Quartz sync: Dec 26, 2024, 8:20 PM)
             }
           }
         ]
