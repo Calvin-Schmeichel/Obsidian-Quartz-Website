@@ -4,29 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2034b6dc90ee632e",
+        "id": "8a0bec74f9454b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "00cb6ca2864651e1",
+            "id": "0934b5924734764f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Blog/calvinschmeichel.com Brand Style Guide.md",
-=======
-                "file": "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
->>>>>>> parent of f8c4579 (Quartz sync: Dec 26, 2024, 8:20 PM)
+                "file": "Blog/Posts/My Thoughts on SOC 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "calvinschmeichel.com Brand Style Guide"
-=======
-              "title": "How Clash Royale Deck Link manipulation got me into Programming"
->>>>>>> parent of f8c4579 (Quartz sync: Dec 26, 2024, 8:20 PM)
+              "title": "My Thoughts on SOC 2"
             }
           }
         ]
@@ -85,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b856efae28674875",
@@ -170,25 +162,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00cb6ca2864651e1",
+  "active": "8495d8a2c986a94f",
   "lastOpenFiles": [
+    "Blog/Posts/firstpost.md",
     "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
-    "Blog/calvinschmeichel.com Brand Style Guide.md",
-    "Blog/Posts/Untitled.md",
+    "Blog/Posts/index.md",
+    "Blog/Posts/My Thoughts on SOC 2.md",
+    "Blog/index.md",
     "index.md",
     "Blog/Posts/Personal Computer Timeline.md",
-    "Blog/Posts/My Thoughts on SOC 2.md",
+    "About Me/About Calvin.md",
+    "About Me/Resume/Calvin Schmeichel Resume Spring 2024.md",
+    "About Me/Resume/Best Buy Timeline.md",
+    "About Me/Resume/index.md",
+    "Blog/Posts/Untitled.md",
     "Images/Asus_Wifi_Card.jpg",
     "Images/RM650_PowerSupply.jpg",
     "Images/RM650_PowerSupply.jpg:Zone.Identifier",
     "Images/Asus_Wifi_Card.jpg:Zone.Identifier",
     "Images",
-    "Blog/index.md",
-    "Blog/Posts/index.md",
     "Blog/Resume/index.md",
     "Blog/Resume/Certifications.md",
     "Blog/Resume/Untitled.md",
-    "Blog/Posts/firstpost.md",
     "blog.md",
     "Blog/posts.md",
     "Blog/Resume.md",
