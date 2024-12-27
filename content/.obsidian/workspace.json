@@ -47,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "blog.calvinschmeichel.com Brand Style Guide"
             }
           }
         ]
@@ -196,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8495d8a2c986a94f",
+  "active": "1162ae7009e3c0de",
   "lastOpenFiles": [
     "index.md",
     "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
