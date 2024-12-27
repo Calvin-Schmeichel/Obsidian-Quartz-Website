@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Media/index.md",
+                "file": "blog.calvinschmeichel.com Brand Style Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "blog.calvinschmeichel.com Brand Style Guide"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "How Clash Royale Deck Link manipulation got me into Programming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7878bb45d2662434",
@@ -48,12 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blog.calvinschmeichel.com Brand Style Guide"
+              "title": "index"
             }
           }
         ]
@@ -197,24 +196,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89a2622f7f1a45be",
+  "active": "1162ae7009e3c0de",
   "lastOpenFiles": [
-    "Blog/Drafts/Making a Begleri from a 12 Year Old Survival Bracelet.md",
+    "blog.calvinschmeichel.com Brand Style Guide.md",
     "Blog/Drafts/index.md",
+    "Blog/Drafts/Making a Begleri from a 12 Year Old Survival Bracelet.md",
+    "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
+    "index.md",
+    "Blog/index.md",
     "Blog/Media/index.md",
     "Blog/Drafts/draft test.md",
-    "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
-    "index.md",
     "Blog/Posts/My Thoughts on SOC 2.md",
     "Blog/Drafts",
     "Blog/Posts/index.md",
-    "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
     "Blog/Media/Clash_Royale_iPhone15Pro_Action_Button.gif",
     "Blog/Media/Clash_Royale_Deck_Link_Example.png",
     "Blog/Media/Clash_Royale_All_Golem_Deck_Link.jpeg",
     "Blog/Media/Asus_Wifi_Card.jpg",
     "Blog/Posts/firstpost.md",
-    "Blog/index.md",
     "Blog/Posts/Personal Computer Timeline.md",
     "About Me/About Calvin.md",
     "About Me/Resume/Calvin Schmeichel Resume Spring 2024.md",
