@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog.calvinschmeichel.com Brand Style Guide.md",
+                "file": "Blog/Drafts/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blog.calvinschmeichel.com Brand Style Guide"
+              "title": "index"
             }
           },
           {
@@ -196,13 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1162ae7009e3c0de",
+  "active": "0934b5924734764f",
   "lastOpenFiles": [
-    "blog.calvinschmeichel.com Brand Style Guide.md",
+    "Blog/Drafts/blog.calvinschmeichel.com Brand Style Guide.md",
+    "index.md",
     "Blog/Drafts/index.md",
     "Blog/Drafts/Making a Begleri from a 12 Year Old Survival Bracelet.md",
     "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
-    "index.md",
     "Blog/index.md",
     "Blog/Media/index.md",
     "Blog/Drafts/draft test.md",
