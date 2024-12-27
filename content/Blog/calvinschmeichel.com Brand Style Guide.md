@@ -8,3 +8,5 @@ tags:
 draft: "True"
 date: 2024-12-23
 ---
+
+This is the brand outline for my Blog.
