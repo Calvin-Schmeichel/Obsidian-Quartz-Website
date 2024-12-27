@@ -9,9 +9,7 @@ tags:
 date: 2024-12-23
 ---
 %%Brand-Style-Guide%%
-
-test
-### Color
+### Colors
 ```ts
 colors: {
 
