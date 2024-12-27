@@ -18,3 +18,4 @@ title: Welcome to calvinschmeichel.com!
 - [I just got Security Plus certified!](https://www.credly.com/badges/5dd6e4a4-1af1-474b-9be1-1381cc3dbce9/public_url)
 - [[blog.calvinschmeichel.com Brand Style Guide]]
 - [blog.calvinschmeichel.com Brand Style Guide](blog.calvinschmeichel.com%20Brand%20Style%20Guide.md)
+- [blog.calvinschmeichel.com Brand Style Guide](Blog/Drafts/blog.calvinschmeichel.com%20Brand%20Style%20Guide.md)
