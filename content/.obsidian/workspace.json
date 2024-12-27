@@ -13,12 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Blog/Media/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "89a2622f7f1a45be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "How Clash Royale Deck Link manipulation got me into Programming"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7878bb45d2662434",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1162ae7009e3c0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "blog.calvinschmeichel.com Brand Style Guide"
             }
           }
         ]
@@ -162,20 +197,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0934b5924734764f",
+  "active": "89a2622f7f1a45be",
   "lastOpenFiles": [
-    "Blog/Posts/My Thoughts on SOC 2.md",
-    "Blog/Posts/firstpost.md",
-    "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
-    "Blog/Posts/index.md",
-    "Blog/index.md",
+    "Blog/Drafts/Making a Begleri from a 12 Year Old Survival Bracelet.md",
+    "Blog/Drafts/index.md",
+    "Blog/Media/index.md",
+    "Blog/Drafts/draft test.md",
+    "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
     "index.md",
+    "Blog/Posts/My Thoughts on SOC 2.md",
+    "Blog/Drafts",
+    "Blog/Posts/index.md",
+    "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
+    "Blog/Media/Clash_Royale_iPhone15Pro_Action_Button.gif",
+    "Blog/Media/Clash_Royale_Deck_Link_Example.png",
+    "Blog/Media/Clash_Royale_All_Golem_Deck_Link.jpeg",
+    "Blog/Media/Asus_Wifi_Card.jpg",
+    "Blog/Posts/firstpost.md",
+    "Blog/index.md",
     "Blog/Posts/Personal Computer Timeline.md",
     "About Me/About Calvin.md",
     "About Me/Resume/Calvin Schmeichel Resume Spring 2024.md",
     "About Me/Resume/Best Buy Timeline.md",
     "About Me/Resume/index.md",
-    "Blog/Posts/Untitled.md",
     "Images/Asus_Wifi_Card.jpg",
     "Images/RM650_PowerSupply.jpg",
     "Images/RM650_PowerSupply.jpg:Zone.Identifier",
