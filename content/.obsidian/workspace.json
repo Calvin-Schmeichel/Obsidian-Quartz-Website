@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "blog.calvinschmeichel.com Brand Style Guide"
             }
           },
           {
@@ -196,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0934b5924734764f",
+  "active": "8495d8a2c986a94f",
   "lastOpenFiles": [
-    "Blog/Drafts/blog.calvinschmeichel.com Brand Style Guide.md",
     "index.md",
+    "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
     "Blog/index.md",
     "Blog/Drafts/blog.calvinschmeichel.com.md",
     "Blog/Drafts/blog.calvinschmeichel.com-Brand-Style-Guide.md",
