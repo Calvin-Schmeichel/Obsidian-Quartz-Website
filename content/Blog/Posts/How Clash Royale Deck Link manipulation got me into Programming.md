@@ -7,6 +7,7 @@ cssclasses:
   - Centered_Images
   - Centered_Tables
   - Rounded_Corners
+date: 2024-10-12
 ---
 Now you are probably wondering how a [RTS](https://en.wikipedia.org/wiki/Real-time_strategy) mobile card game is related to programming. This is a short story about Apples [Siri Shortcuts](https://support.apple.com/en-gb/guide/shortcuts/welcome/ios) made everything possible.
 

@@ -1,3 +1,6 @@
+---
+date: 2024-05-29
+---
 ### My Thoughts on SOC 2
 
 For the past 10 months, I’ve been working as an intern at an auditing firm, focusing on SOC audits, both Type 1 and Type 2. My role primarily involves preparing these audits, and through this experience, I’ve gained a comprehensive understanding of the differences between these types. SOC 1 audits assess a system's control at a specific point in time, while SOC 2 audits evaluate the effectiveness of those controls over a period of time. This distinction has been fundamental in shaping my understanding of audit processes and their implications for businesses.
