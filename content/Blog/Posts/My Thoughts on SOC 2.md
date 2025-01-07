@@ -1,5 +1,7 @@
 ---
 date: 2024-05-29
+tags:
+  - Post
 ---
 ### My Thoughts on SOC 2
 

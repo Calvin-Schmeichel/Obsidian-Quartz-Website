@@ -2,6 +2,8 @@
 cssclasses:
   - Rounded_Corners
 date: 2024-06-13
+tags:
+  - Post
 ---
 
 ### August 2, 2019 | Gaming monitor
