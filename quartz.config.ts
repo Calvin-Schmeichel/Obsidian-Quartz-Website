@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "CalvinSchmeichel", // " " <-- This char fixed the wrapping? ["en quad	U+2000	8192"]
+    pageTitle: "Calvin", // " " <-- This char fixed the wrapping? ["en quad	U+2000	8192"]
     enableSPA: true,
     enablePopovers: true,
     analytics: {
