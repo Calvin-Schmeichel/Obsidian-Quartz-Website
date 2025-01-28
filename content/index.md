@@ -1,19 +1,15 @@
 ---
-title: Welcome to calvinschmeichel.com!
+title: Greetings
 ---
+## This *Digital Garden* is where I show my interests and skills in Security, Technology and other related areas.
+### [Posts](Blog/Posts/index.md)
+> This is where I share my quick thoughts, updates and other recent items.
+### [Articles](Blog/Articles/index.md)
+> More long form content in the feilds of Technology and Security.
+### [About Calvin](About%20Calvin.md)
+> Learn more about me!
+> - [[About Me/Resume/index|Resume Information]]
+> - [[Certifications]]
 
-# Hello there! Welcome to my Blog/Portfolio site!
-
-## Most Recent Post(s)
-- [[My Thoughts on SOC 2]]
-    - [Vanta Certified](https://vanta-audit-academy.workramp.io/certificate/_ocrdLGSkA)
-## Navigation
-- [Blog Posts](Blog/Posts/index.md)
-- [[About Me/Resume/index|Resume Information]]
-- [[Certifications]]
-
-### Recent Activity
-- [[firstpost|My Socials (First Post!)]]
-- [[Calvin Schmeichel Resume Spring 2024|Updated Resume for 2024]]
-- [I just got Security Plus certified!](https://www.credly.com/badges/5dd6e4a4-1af1-474b-9be1-1381cc3dbce9/public_url)
-- [[blog.calvinschmeichel.com Brand Style Guide]]
+> [!cite] Recent Activity
+> - [I went to CES this year!](CES%202025.md)

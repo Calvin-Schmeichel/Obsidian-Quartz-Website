@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Posts/Personal Computer Timeline.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Personal Computer Timeline"
+              "title": "index"
             }
           }
         ]
@@ -164,13 +164,19 @@
   },
   "active": "0934b5924734764f",
   "lastOpenFiles": [
-    "Blog/Articles/How Clash Royale Deck Link manipulation got me into Programming.md",
-    "Blog/Articles/Making a Begleri from a 12 Year Old Survival Bracelet.md",
+    "Blog/Articles/CES 2025.md",
+    "index.md",
+    "Blog/Articles/index.md",
+    "About Me/About Calvin.md",
+    "Blog/index.md",
     "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
-    "Blog/Posts/firstpost.md",
     "Blog/Posts/index.md",
-    "Blog/Posts/My Thoughts on SOC 2.md",
+    "Blog/Articles/How Clash Royale Deck Link manipulation got me into Programming.md",
+    "Blog/Media/CES2025-Intel_Thunderbolt_Share.jpg",
+    "Blog/Articles/Making a Begleri from a 12 Year Old Survival Bracelet.md",
     "Blog/Posts/Personal Computer Timeline.md",
+    "Blog/Posts/firstpost.md",
+    "Blog/Posts/My Thoughts on SOC 2.md",
     "Blog/Articles",
     "Blog/Media/Begleri_Survival_Bracelet.jpg",
     "Blog/Media/Begleri_Survival_Bracelet_Tear_Down.jpg",
@@ -180,8 +186,6 @@
     "Blog/Media/Asus_Wifi_Card.jpg",
     "Blog/Media/Begleri_Final.jpg",
     "Blog/Media/Clash_Royale_All_Golem_Deck_Link.jpeg",
-    "index.md",
-    "Blog/index.md",
     "Blog/Drafts/blog.calvinschmeichel.com.md",
     "Blog/Drafts/blog.calvinschmeichel.com-Brand-Style-Guide.md",
     "Blog/Drafts/index.md",
@@ -189,8 +193,6 @@
     "Blog/Drafts/draft test.md",
     "Blog/Drafts",
     "Blog/Media/Clash_Royale_iPhone15Pro_Action_Button.gif",
-    "Blog/Media/Clash_Royale_Deck_Link_Example.png",
-    "About Me/About Calvin.md",
     "About Me/Resume/Calvin Schmeichel Resume Spring 2024.md",
     "About Me/Resume/Best Buy Timeline.md",
     "About Me/Resume/index.md",
@@ -202,7 +204,6 @@
     "Blog/Resume/Untitled.md",
     "blog.md",
     "Blog/posts.md",
-    "Blog/Resume.md",
-    "Blog/posts 1.md"
+    "Blog/Resume.md"
   ]
 }
