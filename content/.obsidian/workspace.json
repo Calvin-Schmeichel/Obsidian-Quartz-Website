@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Blog/Articles/CES 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "CES 2025"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "0934b5924734764f",
   "lastOpenFiles": [
-    "Blog/Articles/CES 2025.md",
     "index.md",
+    "Blog/Articles/CES 2025.md",
     "Blog/Articles/index.md",
     "About Me/About Calvin.md",
     "Blog/index.md",
