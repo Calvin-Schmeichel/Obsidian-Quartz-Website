@@ -8,7 +8,7 @@ title: Greetings
 > More long form content in the feilds of Technology and Security.
 ### [About Calvin](About%20Calvin.md)
 > Learn more about me!
-> - [[About Me/Resume/index|Resume Information]]
+> - [[Calvin Schmeichel Resume Spring 2024|Resume]]
 > - [[Certifications]]
 
 > [!cite] Recent Activity
