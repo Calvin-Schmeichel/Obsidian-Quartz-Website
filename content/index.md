@@ -13,3 +13,4 @@ title: Greetings
 
 > [!cite] Recent Activity
 > - [I went to CES this year!](CES%202025.md)
+> - [Blog Tags Explained](blog.calvinschmeichel.com%20Brand%20Style%20Guide.md#Tags)

@@ -1,7 +1,7 @@
 ---
 date: 2024-05-29
 tags:
-  - Post
+  - Article
 ---
 ### My Thoughts on SOC 2
 

@@ -5,8 +5,8 @@ aliases:
 description: Small crafts project for making a skill toy
 permalink: begleri
 tags:
-  - Article
   - Out_of_Band
+  - Post
 date: 2024-12-26
 cssclasses:
   - Rounded_Corners
