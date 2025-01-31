@@ -15,9 +15,9 @@ cssclasses:
   - Centered_Images
 ---
 
-I saw this [video](https://www.youtube.com/watch?v=BHFOOj2dNz4) on YouTube the other day about making your own [Begleri](https://en.wikipedia.org/wiki/Begleri). Which is a basic skill toy with short string and weights on both ends. I grew up playing other skill toys such as [Kendama](https://en.wikipedia.org/wiki/Kendama) and [Yo-yo](https://en.wikipedia.org/wiki/Yo-yo) grade school. The video was a showing how you could make one yourself versus purchasing one online so I was intrigued.
+I saw a video on YouTube the other day about making your own [Begleri](https://en.wikipedia.org/wiki/Begleri). Which is a basic skill toy with short string and weights on both ends. I grew up playing other skill toys such as [Kendama](https://en.wikipedia.org/wiki/Kendama) and [Yo-yo](https://en.wikipedia.org/wiki/Yo-yo) grade school. The video was a showing how you could make one yourself versus purchasing one online so I was intrigued.
 
-![Begleri YouTube Video](https://www.youtube.com/watch?v=BHFOOj2dNz4)
+%%![Begleri YouTube Video](https://www.youtube.com/watch?v=BHFOOj2dNz4)%%
 
 ## Finding the Resources
 
