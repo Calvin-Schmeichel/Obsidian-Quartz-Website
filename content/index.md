@@ -5,7 +5,7 @@ title: Greetings
 ### [Posts](Blog/Posts/index.md)
 > This is where I share my quick thoughts, updates and other recent items.
 ### [Articles](Blog/Articles/index.md)
-> More long form content in the feilds of Technology and Security.
+> More long form content in the fields of Technology and Security.
 ### [About Calvin](About%20Calvin.md)
 > Learn more about me!
 > - [[Calvin Schmeichel Resume Spring 2024|Resume]]
