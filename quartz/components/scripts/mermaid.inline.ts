@@ -171,7 +171,7 @@ document.addEventListener("nav", async () => {
     themeVariables: {
       fontFamily: computedStyleMap["--codeFont"],
       primaryColor: computedStyleMap["--light"],
-      primaryTextColor: computedStyleMap["--darkgray"],
+      primaryTextColor: computedStyleMap["--darkgray"], // #000000 --darkgray | computedStyleMap["--darkgray"]
       primaryBorderColor: computedStyleMap["--tertiary"],
       lineColor: computedStyleMap["--darkgray"],
       secondaryColor: computedStyleMap["--secondary"],
