@@ -1,3 +1,8 @@
+---
+title: Drafts
+draft: "True"
+---
+
 ```mermaid
 graph TD
 H[[AMI]]
