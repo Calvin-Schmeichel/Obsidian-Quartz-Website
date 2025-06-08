@@ -29,7 +29,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     //Component.Search(),
     //Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(
+      { //https://discord.com/channels/927628110009098281/1297479935853592636/1297479935853592636
+      folderClickBehavior: "link",
+      filterFn: (node) => {
+        if (["Media", "Drafts"].includes(node.name)) {
+          return false;
+        }
+        return true;
+      }
+    }
+    )),
   ],
   right: [
     //Component.Graph(),

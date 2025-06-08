@@ -1,5 +1,6 @@
 ---
-title: Drafts
+title: Drafts Index
+cssclasses:
+  - Centered_Images
 draft: "True"
 ---
-%%Drafts%%

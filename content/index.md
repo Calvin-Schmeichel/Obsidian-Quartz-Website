@@ -12,5 +12,5 @@ title: Greetings
 > - [[Certifications]]
 
 > [!cite] Recent Activity
+> - [I passed the AWS SAA!](How%20I%20passed%20the%20Solutions%20Architect%20Associate.md)
 > - [I went to CES this year!](CES%202025.md)
-> - [Blog Tags Explained](blog.calvinschmeichel.com%20Brand%20Style%20Guide.md#Tags)
