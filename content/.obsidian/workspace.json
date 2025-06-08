@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Blog/Articles/How I passed the Solutions Architect Associate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "How I passed the Solutions Architect Associate"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Blog/Articles/How I passed the Solutions Architect Associate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for How I passed the Solutions Architect Associate"
             }
           },
           {
@@ -164,8 +164,8 @@
   },
   "active": "2290ed962a4347b6",
   "lastOpenFiles": [
-    "About Me/Certifications.md",
     "index.md",
+    "About Me/Certifications.md",
     "Blog/Articles/How I passed the Solutions Architect Associate.md",
     "Blog/index.md",
     "About Me/About Calvin.md",

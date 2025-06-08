@@ -33,7 +33,7 @@ The main resources I used were:
 | [Be A Better Dev \| YouTube](https://www.youtube.com/@BeABetterDev/playlists)\|                                                                                                                                                                                                                                                          | Great videos that explain tough topics. (Like [SNS vs SQS](https://www.youtube.com/watch?v=RoKAEzdcr7k)) |
 | [AWS Whitepapers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all) | Great official source for AWS service descriptions and how they work.                                    |
 | [Anki](https://apps.ankiweb.net/)                                                                                                                                                                                                                                                                                                        | Opensource flashcards tool.                                                                              |
-**General Study Strategy**:
+**My Study Strategy**:
 1. Review all ~81 in scope services from the AWS Exam Guide.
 	- Look up each service in the "*Overview of Amazon Web Services*" Whitepaper and write the definition of the service in your own words. Also add notes on how it connects to other services all within Obsidian.
 2. Convert those notes into services flashcards with Anki.
@@ -65,9 +65,9 @@ Over all I would recommend the SAA to anyone that wants to learn more about AWS 
 - 100+ Files, 20+ Folders, All linked with related topics and terms from AWS.
 ![](saa_graph.png)
 ### Custom Made Mermaid Charts from Notes
-During my study I would practice learning service workflows by re-making them as custom mermaid chats.
+During my study I would practice learning service workflows by re-making them as custom mermaid charts.
 
-> [`mermaid.js`](https://mermaid.js.org/intro/) is an opensource "Chart as Code" tool that allows you to create and store custom charts in `plaintext` and is support on many tools such as [Obsidian](https://help.obsidian.md/credits#Mermaid).
+> [`mermaid.js`](https://mermaid.js.org/intro/) is an opensource "Chart as Code" tool that allows you to create and store custom charts in `plaintext` and is supported by many tools such as [Obsidian](https://help.obsidian.md/credits#Mermaid).
 ```mermaid
 ---
 title: Amazon EC2 instance lifecycle
