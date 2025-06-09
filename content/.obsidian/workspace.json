@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fe090f1f489c3abe",
+        "id": "d2bfc0be0fbda871",
         "type": "tabs",
         "children": [
           {
-            "id": "2290ed962a4347b6",
+            "id": "fb5a9317d776f239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Articles/How I passed the Solutions Architect Associate.md",
+                "file": "Unlisted/ID/61084ebc-48e3-4f28-bad1-288376340687.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How I passed the Solutions Architect Associate"
+              "title": "61084ebc-48e3-4f28-bad1-288376340687"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/Articles/How I passed the Solutions Architect Associate.md",
+                "file": "Unlisted/ID/61084ebc-48e3-4f28-bad1-288376340687.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How I passed the Solutions Architect Associate"
+              "title": "Backlinks for 61084ebc-48e3-4f28-bad1-288376340687"
             }
           },
           {
@@ -162,46 +162,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2290ed962a4347b6",
+  "active": "8495d8a2c986a94f",
   "lastOpenFiles": [
+    "Unlisted/Drafts/Demo Public.md",
+    "Unlisted/ID/61084ebc-48e3-4f28-bad1-288376340687.md",
+    "Unlisted/Drafts/Demo Private.md",
+    "Unlisted/ID",
+    "Unlisted",
+    "Unlisted/Drafts/index.md",
+    "Unlisted/Media/saa_graph_91c80bb7-0546-41df-863f-39b35bb39bb9.png",
+    "Blog/Articles/How I passed the Solutions Architect Associate.md",
     "index.md",
     "About Me/Certifications.md",
-    "Blog/Articles/How I passed the Solutions Architect Associate.md",
     "Blog/index.md",
     "About Me/About Calvin.md",
     "About Me/index.md",
     "About Me/Resume/Best Buy Timeline.md",
     "About Me/Resume/Calvin Schmeichel Resume Spring 2024.md",
     "About Me/Resume/index.md",
-    "Blog/Media/CES2025-3M_Booth.jpg",
-    "Blog/Media/Begleri_Survival_Bracelet_Tear_Down.jpg",
-    "Blog/Media/Begleri_Nuts_Two.jpg",
-    "Blog/Media/Begleri_Nuts_Braided.jpg",
-    "Blog/Media/Begleri_Final.jpg",
-    "Blog/Drafts/Demo.md",
-    "Blog/Drafts/index.md",
-    "Blog/Media/index.md",
+    "Unlisted/Media/CES2025-3M_Booth.jpg",
+    "Unlisted/Media/Begleri_Survival_Bracelet_Tear_Down.jpg",
+    "Unlisted/Media/Begleri_Nuts_Two.jpg",
+    "Unlisted/Media/Begleri_Nuts_Braided.jpg",
+    "Unlisted/Media/Begleri_Final.jpg",
+    "Unlisted/Media/index.md",
     "Blog/Drafts/test.md",
-    "Blog/Drafts",
+    "Unlisted/Drafts",
     "Blog/Articles/My Thoughts on SOC 2.md",
     "Blog/Articles/How Large Language Models can help Conduct Cyber Attacks.md",
     "Blog/Articles/How Clash Royale Deck Link manipulation got me into Programming.md",
     "obsidian.md",
-    "Blog/Media/saa_graph.png",
-    "Blog/Posts/Making a Begleri from a 12 Year Old Survival Bracelet.md",
+    "Unlisted/Drafts/Making a Begleri from a 12 Year Old Survival Bracelet.md",
     "Blog/Posts/Deploying an LLM Model on my Own Server with Docker and Tailscale.md",
-    "Blog/Media/llama2_OpenWebUI_IOS.gif",
+    "Unlisted/Media/llama2_OpenWebUI_IOS.gif",
     "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
     "Blog/Articles/CES 2025.md",
-    "Blog/Media/CES2025_Nvidia_RTX5090.jpg",
-    "Blog/Media/CES2025-Sony_LoU.jpg",
-    "Blog/Media/CES2025-Flint_Batteries.jpg",
+    "Unlisted/Media/CES2025_Nvidia_RTX5090.jpg",
+    "Unlisted/Media/CES2025-Sony_LoU.jpg",
+    "Unlisted/Media/CES2025-Flint_Batteries.jpg",
     "Blog/Articles/index.md",
     "Blog/Posts/index.md",
     "Blog/Posts/Personal Computer Timeline.md",
-    "Blog/Posts/firstpost.md",
     "Blog/Articles",
-    "Blog/Drafts",
+    "Unlisted/Drafts",
     "Images/RM650_PowerSupply.jpg:Zone.Identifier",
     "Images/Asus_Wifi_Card.jpg:Zone.Identifier",
     "Images"

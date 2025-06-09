@@ -32,8 +32,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer(
       { //https://discord.com/channels/927628110009098281/1297479935853592636/1297479935853592636
       folderClickBehavior: "link",
+      folderDefaultState: "collapsed",
       filterFn: (node) => {
-        if (["Media", "Drafts"].includes(node.name)) {
+        if (["Media", "Drafts", "Unlisted"].includes(node.name)) {
           return false;
         }
         return true;

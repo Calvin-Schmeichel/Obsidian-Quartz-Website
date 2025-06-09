@@ -9,7 +9,7 @@ cssclasses:
 date: 0205-06-06
 tags:
   - Article
-permalink: 41c5e4d4-c608-4387-b711-cdc0da8cf86b
+permalink: 91c80bb7-0546-41df-863f-39b35bb39bb9
 ---
 
 [![](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/7566a7b4-b78d-43af-8450-db5f9ebffebc)
@@ -63,7 +63,7 @@ Over all I would recommend the SAA to anyone that wants to learn more about AWS 
 
 ### Obsidian Node Graph of All SAA Notes
 - 100+ Files, 20+ Folders, All linked with related topics and terms from AWS.
-![](saa_graph.png)
+![](saa_graph_91c80bb7-0546-41df-863f-39b35bb39bb9.png)
 ### Custom Made Mermaid Charts from Notes
 During my study I would practice learning service workflows by re-making them as custom mermaid charts.
 
