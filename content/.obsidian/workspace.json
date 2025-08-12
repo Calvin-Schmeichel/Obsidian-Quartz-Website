@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlisted/Drafts/My favorite things from WWDC 2025.md",
+                "file": "Unlisted/Drafts/DEF CON 33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My favorite things from WWDC 2025"
+              "title": "DEF CON 33"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unlisted/Drafts/My favorite things from WWDC 2025.md",
+                "file": "Unlisted/Drafts/DEF CON 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for My favorite things from WWDC 2025"
+              "title": "Backlinks for DEF CON 33"
             }
           },
           {
@@ -176,11 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8495d8a2c986a94f",
+  "active": "8f4c15a3bfdbd166",
   "lastOpenFiles": [
+    "Unlisted/Drafts/test-draftr.md",
+    "Unlisted/Drafts/DEF CON 33.md",
+    "Unlisted/Drafts/My favorite things from WWDC 2025.md",
     "Blog/Articles/How I passed the Solutions Architect Associate.md",
     "Blog/Articles/How Clash Royale Deck Link manipulation got me into Programming.md",
-    "Unlisted/Drafts/My favorite things from WWDC 2025.md",
     "Blog/Posts/Deploying an LLM Model on my Own Server with Docker and Tailscale.md",
     "Unlisted/Media/WWDC25_spotlight_large_2x.mp4",
     "Unlisted/Media/WWDC25_large_2x.mp4",
@@ -217,7 +219,6 @@
     "Blog/Articles/CES 2025.md",
     "Unlisted/Media/CES2025_Nvidia_RTX5090.jpg",
     "Unlisted/Media/CES2025-Sony_LoU.jpg",
-    "Blog/Articles/index.md",
     "Blog/Articles",
     "Unlisted/Drafts",
     "Images/RM650_PowerSupply.jpg:Zone.Identifier",

@@ -4,6 +4,7 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
+
 #.obsidian
 .quartz-cache
 private/
@@ -12,3 +13,4 @@ replit.nix
 
 #Custom
 .Identifier
+.trash
