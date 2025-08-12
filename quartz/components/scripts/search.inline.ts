@@ -160,6 +160,13 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   }
 
   const enablePreview = searchLayout?.dataset?.preview === "true"
+
+  const excludeDirs = (searchLayout?.dataset?.excludeDirs || "") // Added Search filter option
+    .split(",").map(s => s.trim()).filter(Boolean).map(s => s.toLowerCase()) // Added Search filter option
+  const excluded = new Set(excludeDirs) // Added Search filter option
+  const isExcludedSlug = (slug: FullSlug) => // Added Search filter option
+    slug.split("/").some(seg => excluded.has(seg.toLowerCase())) // Added Search filter option
+
   let preview: HTMLDivElement | undefined = undefined
   let previewInner: HTMLDivElement | undefined = undefined
   const results = document.createElement("div")
@@ -454,8 +461,15 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       ...getByField("content"),
       ...getByField("tags"),
     ])
-    const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
-    await displayResults(finalResults)
+
+    const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id)) // Added Search filter option
+    const filteredResults = finalResults.filter(r => !isExcludedSlug(r.slug)) // Added Search filter option
+    await displayResults(filteredResults) // Added Search filter option
+
+
+    // Added Search filter option
+      //const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
+      //await displayResults(finalResults)
   }
 
   document.addEventListener("keydown", shortcutHandler)

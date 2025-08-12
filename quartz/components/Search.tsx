@@ -7,10 +7,12 @@ import { i18n } from "../i18n"
 
 export interface SearchOptions {
   enablePreview: boolean
+  excludeDirs?: string[] // Added Search filter option
 }
 
 const defaultOptions: SearchOptions = {
   enablePreview: true,
+  excludeDirs: ["Unlisted"], // Added Search filter option
 }
 
 export default ((userOpts?: Partial<SearchOptions>) => {
@@ -39,12 +41,18 @@ export default ((userOpts?: Partial<SearchOptions>) => {
               aria-label={searchPlaceholder}
               placeholder={searchPlaceholder}
             />
-            <div id="search-layout" data-preview={opts.enablePreview}></div>
+            <div
+              id="search-layout"
+              data-preview={opts.enablePreview}
+              data-exclude-dirs={(opts.excludeDirs ?? []).join(",")}
+              ></div> 
           </div>
         </div>
       </div>
     )
   }
+
+  // Added Search filter option <div id="search-layout" data-preview={opts.enablePreview}></div>
 
   Search.afterDOMLoaded = script
   Search.css = style
