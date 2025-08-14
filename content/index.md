@@ -1,5 +1,8 @@
 ---
 title: Greetings
+cssclasses:
+  - Rounded_Corners
+  - Centered_Images
 ---
 ## This *Digital Garden* is where I show my interests and skills in Security, Technology and other related areas.
 ### [Posts](Blog/Posts/index.md)
@@ -13,4 +16,6 @@ title: Greetings
 
 > [!cite] Recent Activity
 > - [I passed the AWS SAA!](How%20I%20passed%20the%20Solutions%20Architect%20Associate.md)
-> - [I went to CES this year!](CES%202025.md)
+> - [I went to DEF CON 33!](DEF%20CON%2033.md)
+
+[![[def_con-33_sign.jpg]]](DEF%20CON%2033.md)

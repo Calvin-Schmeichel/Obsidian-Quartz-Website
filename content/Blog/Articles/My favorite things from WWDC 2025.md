@@ -7,7 +7,9 @@ cssclasses:
   - Rounded_Corners
 date: 2025-06-11
 tags:
+  - Article
   - Apple
+permalink: 9b6b0b19-7c61-4684-928c-554537edabb2
 ---
 
 ![|500](https://www.apple.com/newsroom/images/2025/03/apples-worldwide-developers-conference-returns-the-week-of-june-9/article/Apple-WWDC25-event-branding_big.jpg.large.jpg)

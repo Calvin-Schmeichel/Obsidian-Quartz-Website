@@ -2,8 +2,9 @@
 title: DEF CON 33
 aliases:
   - def_con_33
+  - defcon33
 description: The largest hacking and security conference with presentations, workshops, contests, villages and the premier Capture The Flag Contest.
-permalink: def_con_33
+permalink: 80e079e3-cbba-4a54-a045-cb22aea46b7e
 tags:
   - Article
 date: 2025-08-11
