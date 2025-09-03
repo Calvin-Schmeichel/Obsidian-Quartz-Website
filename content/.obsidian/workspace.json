@@ -1,98 +1,41 @@
 {
   "main": {
-    "id": "8941491cfa26e770",
+    "id": "53ee08d59b06b2bb",
     "type": "split",
     "children": [
       {
-        "id": "799f0d767a8a1cb7",
+        "id": "5e2078568dd68506",
         "type": "tabs",
         "children": [
           {
-            "id": "8f4c15a3bfdbd166",
+            "id": "cc56ad5dc756f4cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Unlisted/Drafts/Creating a Proxmox Automation script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "9e1b97652c58f44d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Articles/DEF CON 33.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "DEF CON 33"
-            }
-          },
-          {
-            "id": "f7b97a9024e1106d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Articles/CES 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CES 2025"
-            }
-          },
-          {
-            "id": "ad8565d7fb02feb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Articles/How I passed the Solutions Architect Associate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How I passed the Solutions Architect Associate"
-            }
-          },
-          {
-            "id": "4b13feb93da1a463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Articles/How I passed the Solutions Architect Associate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How I passed the Solutions Architect Associate"
+              "title": "Creating a Proxmox Automation script"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6569c6ea6112b675",
+    "id": "0d9e64012fe088ff",
     "type": "split",
     "children": [
       {
-        "id": "77fc8d8eae0221be",
+        "id": "d0a0dd3d1b12ed0a",
         "type": "tabs",
         "children": [
           {
-            "id": "8495d8a2c986a94f",
+            "id": "b2debb7d4993f620",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -105,7 +48,7 @@
             }
           },
           {
-            "id": "db6d4ea1852a959c",
+            "id": "16477668af822b79",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -122,7 +65,7 @@
             }
           },
           {
-            "id": "8538c1a7f5fdc36b",
+            "id": "08336e68ca3055b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -135,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 300
   },
   "right": {
-    "id": "b856efae28674875",
+    "id": "3d47f42df734496d",
     "type": "split",
     "children": [
       {
-        "id": "6fc1933172a9a05a",
+        "id": "66b046c510b718b9",
         "type": "tabs",
         "children": [
           {
-            "id": "143eed30b79b48cc",
+            "id": "6eb4f68db68c6cf9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unlisted/Drafts/DEF CON 33.md",
+                "file": "Unlisted/Drafts/Creating a Proxmox Automation script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,53 +104,58 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DEF CON 33"
+              "title": "Backlinks for Creating a Proxmox Automation script"
             }
           },
           {
-            "id": "0598ca7d3863b6a0",
+            "id": "ab485c68aa2a50b3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md",
+                "file": "Unlisted/Drafts/Creating a Proxmox Automation script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How Clash Royale Deck Link manipulation got me into Programming"
+              "title": "Outgoing links from Creating a Proxmox Automation script"
             }
           },
           {
-            "id": "b388a1d9d475ae99",
+            "id": "6dbba9fd73c3ad64",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "e73f97ee0c37c36d",
+            "id": "ab7d8b4e2b7b3267",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Posts/How Clash Royale Deck Link manipulation got me into Programming.md"
+                "file": "Unlisted/Drafts/Creating a Proxmox Automation script.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How Clash Royale Deck Link manipulation got me into Programming"
+              "title": "Outline of Creating a Proxmox Automation script"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 235.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -217,56 +165,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "9e1b97652c58f44d",
-  "lastOpenFiles": [
-    "index.md",
-    "Blog/Articles/DEF CON 33.md",
-    "Blog/Articles/My favorite things from WWDC 2025.md",
-    "Blog/Articles/How I passed the Solutions Architect Associate.md",
-    "Blog/Posts/index.md",
-    "Unlisted/Drafts/Untitled.md",
-    "Unlisted/Drafts/DEF CON 33.md",
-    "Unlisted/Media/def_con-33_workshop.jpg",
-    "Blog/Articles/CES 2025.md",
-    "Unlisted/Media/def_con-33_sign.jpg",
-    "Unlisted/Media/def_con-33_stage.jpg",
-    "Unlisted/Media/def_con-33_wall.jpg",
-    "Unlisted/Media/def_con-33_wall_stickers.jpg",
-    "Unlisted/Drafts/test-draftr.md",
-    "Blog/Articles/How Clash Royale Deck Link manipulation got me into Programming.md",
-    "Blog/Posts/Deploying an LLM Model on my Own Server with Docker and Tailscale.md",
-    "Unlisted/Media/WWDC25_spotlight_large_2x.mp4",
-    "Unlisted/Media/WWDC25_large_2x.mp4",
-    "8nqke3cr.png",
-    "Unlisted/ID/61084ebc-48e3-4f28-bad1-288376340687.md",
-    "Unlisted/Drafts/Demo Public.md",
-    "Unlisted/Drafts/Demo Private.md",
-    "Unlisted/ID",
-    "Unlisted",
-    "Unlisted/Drafts/index.md",
-    "Unlisted/Media/saa_graph_91c80bb7-0546-41df-863f-39b35bb39bb9.png",
-    "About Me/Certifications.md",
-    "Blog/index.md",
-    "About Me/About Calvin.md",
-    "About Me/index.md",
-    "About Me/Resume/Best Buy Timeline.md",
-    "About Me/Resume/Calvin Schmeichel Resume Spring 2024.md",
-    "About Me/Resume/index.md",
-    "Unlisted/Media/CES2025-3M_Booth.jpg",
-    "Unlisted/Media/Begleri_Survival_Bracelet_Tear_Down.jpg",
-    "Unlisted/Media/Begleri_Nuts_Two.jpg",
-    "Unlisted/Media/index.md",
-    "Blog/Drafts/test.md",
-    "Unlisted/Drafts",
-    "Blog/Articles/My Thoughts on SOC 2.md",
-    "Blog/Articles/How Large Language Models can help Conduct Cyber Attacks.md",
-    "Blog/Articles",
-    "Unlisted/Drafts",
-    "Images/RM650_PowerSupply.jpg:Zone.Identifier",
-    "Images/Asus_Wifi_Card.jpg:Zone.Identifier",
-    "Images"
-  ]
+  "active": "cc56ad5dc756f4cf",
+  "lastOpenFiles": []
 }
