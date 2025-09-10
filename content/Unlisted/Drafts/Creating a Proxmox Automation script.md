@@ -17,6 +17,9 @@ cssclasses:
 ###### Proxmox
 
 ```
+
+
+
  ███████████  ███████████      ███████    █████ █████ ██████   ██████    ███████    █████ █████
 ░░███░░░░░███░░███░░░░░███   ███░░░░░███ ░░███ ░░███ ░░██████ ██████   ███░░░░░███ ░░███ ░░███ 
  ░███    ░███ ░███    ░███  ███     ░░███ ░░███ ███   ░███░█████░███  ███     ░░███ ░░███ ███  
@@ -25,21 +28,26 @@ cssclasses:
  ░███         ░███    ░███ ░░███     ███   ███ ░░███  ░███      ░███ ░░███     ███   ███ ░░███ 
  █████        █████   █████ ░░░███████░   █████ █████ █████     █████ ░░░███████░   █████ █████
 ░░░░░        ░░░░░   ░░░░░    ░░░░░░░    ░░░░░ ░░░░░ ░░░░░     ░░░░░    ░░░░░░░    ░░░░░ ░░░░░ 
+                                                                                               
+                                                                                               
+                                                                                               
 ```
 
 ### Small Beginnings
 
-This past year I have been working on my home-lab and a few months ago I deployed my Proxmox Virtual Environment. In my long and challenging journey of getting PCIE passthrough via IOMMU to work correctly. I wanted to explore the world of Proxmox `qm` to start automating my virtual machine development environment. Proxmox `qm` (short for QEMU Manager) `qm` is the main CLI tool to interact with your PVE (Outside of the GUI). This paired with some basic Bash scripting leads to a powerful automation tool, that makes sure all my VM's are deployed in the same state, they also all get the same tricky PCIE passthrough configurations and my most common packages so they are ready for me on startup. This is my first step into some basic IaC and I wanted to share my journey so far and my future goals for what I want to learn.
+This past year I have been working on my home-lab and a few months ago I deployed my Proxmox Virtual Environment. In my long and challenging journey of getting PCIE passthrough via IOMMU to work correctly, I wanted to explore the world of Proxmox `qm` to start automating my virtual machine development environment. Proxmox `qm`, short for QEMU Manager, is the main CLI tool to interact with your PVE outside of the GUI. This, paired with some basic Bash scripting, leads to a powerful automation tool that makes sure all my VM's are deployed in the same state. They also all get the same tricky PCIE passthrough configurations and my most common packages, so they are ready for me right on startup. This was my first step into some basic IaC and I wanted to share my journey so far, as well as my future goals for what I want to learn moving forward.
 
 ### Why `qm` and Bash?
 I chose `qm` and Bash since `qm` is a first party tool designed for Proxmox and is already installed once your PVE is configured, Bash is simple and great for CLI commands and already configured as well (No extra packages like Python). I thought it was also a nice chance to learn more about Bash.
+
+I chose ‘qm’ and Bash because qm is a first party tool specifically designed for Proxmox that already came installed with the default Proxmox installation, and Bash because of how simple and great for it is for CLI commands. Not to mention, Bash also comes installed with Proxmox. Less work and also a great chance to learn Bash.
 
 ### The Script
 
 > [!info] Note
 > This just goes over the general script workflow, I am still learning the best ways to approach certain tasks so this script might evolve and change over time. This post is more of a snapshot of the MVP I was able to put together.
 ##### `.env`
-First we create a `.env` file to set our parameters, this is a temp file that can be removed after the VM's creation.
+First we create a `.env` file to set our parameters; this is a temp file that can be removed after the VM's creation.
 
 ```bash
 # .env Example:
@@ -79,10 +87,10 @@ We then use the `qm set` commands to create all of the modifiers for our VM:
 | **Networking**       | VirtIO NIC bridged to `vmbr0`, IP via DHCP (Cloud-Init)                             |
 | **Provisioning**     | Cloud-Init drive handles credentials & config (Proxmox `ciuser/cipassword` skipped) |
 | **Optional**         | Commented-out steps: convert to template, clone, destroy VM                         |
-> Here its good to note that I switched from traditional Linux ISO's to cloud-init images, these images are the cloud native industry standard for any type of public cloud platform. It makes the configuration process much easier of setting parameters such as username/password and hostname before the VM is even deployed.
+> Here, it's good to note that I switched from traditional Linux ISO's to cloud-init images. These images are the cloud native industry standard for any type of public cloud platform. It makes the configuration process much easier by setting parameters such as username/password and hostname before the VM is even deployed.
 
 ### cloud-init script
-cloud-init scripts are stored in YAML files. But we can define the script details in our bash script then create the YAML file once the script is ran.
+cloud-init scripts are stored in YAML files. But we can define the script details in our bash script then create the YAML file once the script is run.
 
 
 This exports our script
@@ -133,12 +141,12 @@ write_files:
     
     # Insert "contrib non-free non-free-firmware" here to match your APT file
 ```
-> Long story short since we configured PCIE passthrough via IOMMU and I am using an Nvidia GPU, to install the GPU drivers you need to add `contrib non-free non-free-firmware` repositories since the official Nvidia GPU drivers are unsigned.
+> Long story short, since we configured PCIE passthrough via IOMMU and I am using an Nvidia GPU, in order to install the GPU drivers you need to add `contrib non-free non-free-firmware` repositories since the official Nvidia GPU drivers are unsigned.
 
 Note: here I had to define some custom DNS servers since I was running into
 ```
 network:
-		# Insert DNS servers here
+        # Insert DNS servers here
 ```
 
 We then run our install commands:
