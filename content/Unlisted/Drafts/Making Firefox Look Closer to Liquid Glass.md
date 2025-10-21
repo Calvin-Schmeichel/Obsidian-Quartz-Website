@@ -9,7 +9,6 @@ tags:
 date: 2025-10-15
 cssclasses:
   - Rounded_Corners
-  - Centered_Tables
   - Centered_Embeds
   - Centered_Images
 ---
@@ -33,17 +32,20 @@ I found this [repo](https://github.com/Ashley-Cause/GlassFox), which includes cu
 
 ### Before and After
 
+![[Firefox_base.png|700]]
+
 <div style="text-align: center;">Firefox Base</div>
 
-![[Firefox_base.png|400]]
+![[Firefox_safari.png|700]]
 
 <div style="text-align: center;">Safari with Liquid Glass</div>
 
-![[Firefox_safari.png|400]]
+![[Firefox_glassfox.png|700]]
 
 <div style="text-align: center;">Firefox with Glassfox</div>
 
-![[Firefox_glassfox.png|400]]
+### Up Next
+I have already made a few CSS snippets for my Obsidian editor and my blog website. Now that I know I can do something similar with Firefox at the browser level this makes me want to learn more about this space! I love using platforms that allow you to learn and customize your tools to how you like them.
 
 ### Credits
 > [!info] Credit to `Ashley-Cause` on GitHub for the CSS code!  

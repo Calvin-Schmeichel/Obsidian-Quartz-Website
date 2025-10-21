@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e2078568dd68506",
+        "id": "2036596eae74f3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "cc56ad5dc756f4cf",
+            "id": "00e84d441569ca06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlisted/Drafts/Creating a Proxmox Automation script.md",
+                "file": "Unlisted/Drafts/frsecure_hacks_hops_2025.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Creating a Proxmox Automation script"
+              "title": "frsecure_hacks_hops_2025"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "frsec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3d47f42df734496d",
@@ -169,6 +169,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc56ad5dc756f4cf",
-  "lastOpenFiles": []
+  "active": "00e84d441569ca06",
+  "lastOpenFiles": [
+    "Unlisted/Drafts/frsecure_hacks_hops_2025.md",
+    "Unlisted/Drafts/Making Firefox Look Closer to Liquid Glass.md",
+    "Blog/Articles/DEF CON 33.md",
+    "Blog/Articles/How Clash Royale Deck Link manipulation got me into Programming.md",
+    "Blog/Articles/My favorite things from WWDC 2025.md",
+    "Unlisted/Drafts/smb test.md",
+    "Unlisted/Drafts/Creating a Proxmox Automation script.md"
+  ]
 }
