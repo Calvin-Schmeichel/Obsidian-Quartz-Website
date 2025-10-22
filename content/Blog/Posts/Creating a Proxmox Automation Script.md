@@ -149,7 +149,7 @@ network:
         # Insert DNS servers here
 ```
 
-We then run our install commands:
+We then run our install commands: (For simplicity I just left the comments, but these will be the normal install commands you want to use.)
 ```
 runcmd:
     # Update and upgrade the system

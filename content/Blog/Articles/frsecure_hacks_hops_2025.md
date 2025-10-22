@@ -5,7 +5,7 @@ aliases:
 description: My experience at Hacks and Hops 2025
 permalink: 9e62ef4f-f6e9-4ecd-be8f-1d0a123146ca
 tags:
-  - Post
+  - Article
 date: 2025-10-21
 cssclasses:
   - Rounded_Corners
@@ -29,7 +29,7 @@ The main updates were:
 - Cybersecurity incidents are on the rise (Increased budgets required)
 - Social engineering is still the top threat (Cause of ~67% of business email compromise)
 	- Most organizations have implemented a basic social engineering test, but what you should be asking yourself is: "Do we know the effectiveness of this test?", "Are we improving this process?"
-	- It's important as well that as your employees get trained on BEC you should be increasing the difficulty to match. Always be improving!
+	- As your employees get better at recognizing BEC, make sure the training gets harder too. Always keep improving.
 - Multifactor authentication (MFA) implementation rates are improving.
 	- 88% of organizations now have MFA
 	- But the work is not done, we should strive for 100% MFA on all user and admin accounts.
@@ -83,7 +83,7 @@ It was awesome to hear more about AI in the SOC space, the ongoing impact and th
 ![[frsecure_hacks_hops_2025_powerpoint.jpg|500]]
 
 ### Overtime: Final Thoughts
-Overall this was an awesome event to be able to go to. It was great to network and see my FRSecure friends we met at DEF CON 33 earlier in the year, the information covered in the state of the union and technical tracks was top notch and ripe with information I want to dive deeper into and concepts and ideas I want to bring to my next career opportunity.
+Overall this was an awesome event to be able to go to. It was great to network and reconnect with my FRSecure friends from DEF CON 33 earlier this year. The information covered in the State of the Union and technical tracks was incredible, full of insights I want to explore further and ideas I hope to bring into my next career opportunity.
 
 I want to thank FRSecure again for inviting me to this event and I look forward to attending more in the future!
 

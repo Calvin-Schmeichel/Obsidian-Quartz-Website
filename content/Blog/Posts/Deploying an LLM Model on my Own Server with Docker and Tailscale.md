@@ -13,6 +13,9 @@ tags:
   - Homelab
   - Post
 ---
+
+> [!attention] \[10/22/2025\] This Post has been updated
+> Please refer to "[My new LLM configuration using Tailscale and Docker](Unlisted/Drafts/llm_docker_tailscale_update.md)" for the latest configuration.
 ### The time is now
 After seeing the huge news about [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)'s release last month and its affect on [Nvidia's stock](https://www.forbes.com/sites/greatspeculations/2025/01/27/why-deepseek-is-sinking-nvidia-stock/)and after [[How Large Language Models can help Conduct Cyber Attacks|dabbling in running LLM's locally last year for a research project]], aaaaand after I just deployed my first server for my home lab and looking for a project to run on it. I figured now was a better time then ever to get started!
 ### Technology Stack
