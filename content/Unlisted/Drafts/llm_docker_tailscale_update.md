@@ -1,6 +1,7 @@
 ---
 title: "Update: My new LLM configuration using Tailscale and Docker"
 aliases:
+  - "Update: My new LLM configuration using Tailscale and Docker"
   - Proxmox VM Docker ollama install
 description: An update on my Ollama configuration within my homelab
 permalink: 609669cc-7a02-4a8f-bb55-78ef752ef7ec
@@ -21,7 +22,7 @@ A lot has changed in my Homelab since that last post about my AI/Ollama configur
 
 The biggest change is that I have switched my main server from Windows 11 to Proxmox. This allows me way more flexibility when it comes to configuration and VM management. I deployed a new Debian VM running docker with PCIE Passthrough for my GPU. This was automatically deployed via a Proxmox template file I made by using a [Bash script I developed](Blog/Posts/Creating%20a%20Proxmox%20Automation%20Script.md).
 
-The second main change I made was how the service was served. Originally I used [Tailscale Serve](https://tailscale.com/kb/1312/serve) which was great at the time but once I started to learn the Tailscale platform more, I learned that Serve should be used more for short term ephemeral private demos not long term deployments. That's where Tailscale Docker sidecars come in. These sidecar containers run their own instance of the Tailscale service with its own machine name and IP. This way the service doe not use the VM hosts IP but its own. This is helpful when you overlap ports, want a custom URL for your service or want more granular ACL rules on a per container level then just the host and all its containers put together.
+The second main change I made was how the service was served. Originally I used [Tailscale Serve](https://tailscale.com/kb/1312/serve) which was great at the time but once I started to learn the Tailscale platform more, I learned that Serve should be used more for short term ephemeral private demos not long term deployments. That's where Tailscale Docker sidecars come in. These sidecar containers run their own instance of the Tailscale service with its own machine name and IP. This way the service does not use the VM hosts IP but its own. This is helpful when you overlap ports, want a custom URL for your service or want more granular ACL rules on a per container level then just the host and all its containers put together.
 
 | Technology                                    | Product/Platform                                                                                       | Reason                                                                                                                                                                                             |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

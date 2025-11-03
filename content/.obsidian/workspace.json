@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Posts/Deploying an LLM Model on my Own Server with Docker and Tailscale.md",
+                "file": "Unlisted/Drafts/llm_docker_tailscale_update.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deploying an LLM Model on my Own Server with Docker and Tailscale"
+              "title": "llm_docker_tailscale_update"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlisted/Drafts/llm_docker_tailscale_update.md",
+                "file": "Unlisted/Drafts/aws_outage_oct_2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "llm_docker_tailscale_update"
+              "title": "aws_outage_oct_2025"
             }
           },
           {
@@ -145,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -241,14 +240,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "16477668af822b79",
+  "active": "f1272963b62d96b3",
   "lastOpenFiles": [
-    "Blog/Posts/Deploying an LLM Model on my Own Server with Docker and Tailscale.md",
     "Unlisted/Drafts/llm_docker_tailscale_update.md",
+    "Unlisted/Drafts/aws_outage_oct_2025.md",
+    "Blog/Posts/Deploying an LLM Model on my Own Server with Docker and Tailscale.md",
+    "Blog/Posts/Creating a Proxmox Automation Script.md",
     "Blog/Articles/frsecure_hacks_hops_2025.md",
     "Blog/Articles/DEF CON 33.md",
     "index.md",
-    "Blog/Posts/Creating a Proxmox Automation Script.md",
     "[Creating a Proxmox Automation script](Unlisted/Drafts/Creating a Proxmox Automation script.md",
     "[Creating a Proxmox Automation script](Unlisted/Drafts",
     "[Creating a Proxmox Automation script](Unlisted",
