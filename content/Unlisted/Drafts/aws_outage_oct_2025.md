@@ -16,11 +16,11 @@ cssclasses:
 
 ### What happened?
 
-Early Monday morning AWS announcing they were having some issues in the N. Virginia (us-east-1) Region. During this time Platforms like Snapchat, Signal and Fortnight were all having issues, and by mid day even Amazons own consumer services were having issues.
+Early Monday morning AWS announced they were having some issues in the N. Virginia (us-east-1) Region. During this time platforms like Snapchat, Signal and Fortnite were all having issues, and by mid day even Amazon's own consumer services were having problems.
 
 The main reason for this was:
 - The increased error rates of the Amazon DynamoDB API.
-- Network Load Balancer (NLB) having increased connection errors
+- Network Load Balancer (NLB) having increased connection errors.
 - Some new EC2 launches failed and the ones that didn't also had connectivity issues.
 
 #### DynamoDB
@@ -30,7 +30,7 @@ The main cause of API call errors was an issue with the services automated DNS s
 > [!Abstract] Latent Race Condition
 > *A latent race condition is a race condition vulnerability that is not immediately obvious and may only occur under specific, often infrequent, timing or network conditions.*
 
-This was caused at a high level DNS Enactor's are split across 3 different availability zones for redundancy but do to the latent race condition of longer latency to update the DNS record an enactor trued to update a record with an older plan that then was immediately deleted by another enactor since it should have been out of date. This lead to the incorrect empty DNS record and the IPs for the us-east-1 region deleted. This left the system in a failure state that required AWS engineers to intervene to fix the issue.
+At a high level this was caused by the AWS DNS Enactors. These Enactors are split across 3 different availability zones for redundancy and updated DNS plan records as changes are made. Unfortunately do to the latent race condition which was the event of longer latency to update the DNS record the expected. The enactor tried to update a record with an old DNS plan. Which Then lead to it being deleted immediately by another DNS enactor (Since it thought it was outdated). This created an empty DNS record being saved and the IPs for the us-east-1 region deleted. This left the system in a failure state that required AWS engineers to intervene to fix the issue.
 
 This lead to DNS failures for all requests to DynamoDB in the N. Virginia (us-east-1) Region via their public endpoint. This also includes internal AWS services traffic that is dependent on DynamoDB as well.
 
@@ -47,12 +47,12 @@ This was the main AWS service outage event for the day.
 
 #### Amazon EC2 & NLB
 
-New Amazon EC2's being deployed ran into issues during this outage as well (Already deployed EC2's were fine during the outage). The root cause was the Amazon EC2 subsystem DropletWorkflow Manager (DWFM), which has dependent on DynamoDB to function. This subsystem manages the underlying physical server hardware EC2 runs on and is ran right before new EC2 deployment, since the droplet backlog queue of new EC2 instances got so backed up the jobs timed out and failed before they could be deployed, hence the errors with new EC2's.
+New Amazon EC2's being deployed ran into issues during this outage as well (Already deployed EC2's were fine during the outage). The root cause was the Amazon EC2 subsystem DropletWorkflow Manager (DWFM), which is dependent on DynamoDB to function. This subsystem manages the underlying physical server hardware EC2 runs on and is ran right before a new EC2 deployment. Since the droplet backlog queue of new EC2 instances got so backed up, the jobs timed out and failed before they could be deployed. Hence the errors with new EC2's.
 
 > [!Bug] EC2 Timeline
 > 2:25 AM Root cause identified (DWFM lease failures after DynamoDB outage), 1:50 PM Fixed  
 
-After DWFM was recovered this lead to the Network Manager subsystem to fail as the queue got so backed up for failed EC2 launch configurations it could not keep up. This lead to AWS engineers to enable a throttling on new EC2 requests while the issue was manually resolved. This also lead to issues with Amazon Network load balancers (NLB) and other AWS services throughout the day.
+After DWFM was recovered this lead to the Network Manager subsystem to fail as the queue got so backed up with failed EC2 launch configurations it could not keep up. This lead to AWS engineers to enable a throttling on new EC2 requests while the issue was manually resolved. This also lead to issues with Amazon Network load balancers (NLB) and other AWS services throughout the day.
 
 > [!Bug] NLB Timeline
 > 6:52 AM Root cause identified (health check failures), 2:09 PM Fixed  
@@ -77,7 +77,7 @@ The official AWS report mentions multiple AWS services were impacted due to depe
 
 ```mermaid
 gantt
-title AWS us-east-1 Incident Timeline (Oct 19–20, 2025 PDT)
+title AWS us-east-1 Incident Timeline (Oct 19–20, 2025 PDT) [*Estimates]
 dateFormat  YYYY-MM-DD HH:mm
 
 section Overall
@@ -137,14 +137,14 @@ Finally, at a high level, they said they will be looking at this outage event ac
 
 As someone who recently got their [SAA-C03](Blog/Articles/How%20I%20passed%20the%20Solutions%20Architect%20Associate.md). I wanted to share my thoughts on how this type of outage could have been prevented.
 
-- Don't put all your resources in one region.
+- Don't put all your resources in one region:
 	- Many company's heavily relay on `us-east-1` do to its convenience, low latency and new features. But this creates a massive single point of failure for your business.
 	- Lots of people think having multi-AZ environment within one region is enough but when you get a ***regional*** control-plane failure (like DNS) this can still take everything down.
-- Understand when to use Abstraction tools wisely
+- Understand when to use abstraction tools wisely:
 	- When you decide to use a managed services such as a database provider etc. You are adding another layer in your businesses environment that could lead to a potential failure.
-- Map your dependencies
+- Map your dependencies:
 	- Take a look at your network diagrams and understand what parts of your system will go down when core services break. Map these out and understand them.
-- Start Architecting a regional failover solution.
+- Start Architecting a regional failover solution:
 	- When I was studying for my SAA I learned about how AWS Route53 has multiple routing types:
 
 > [!Abstract] My SAA notes on: Route 53
@@ -162,7 +162,7 @@ As someone who recently got their [SAA-C03](Blog/Articles/How%20I%20passed%20the
 > - **Weighted Routing**
 > 	- *You can associate resources to a specific domain and route.*"
 
-- Test Test Test! (Tabletops!)
+- Test Test Test! (Tabletops!):
 	- Run tabletops on your disaster recovery plans with your leadership on a consistent cadence to practice these incidents before they happen.
 	- Example: Run regular “turn off us-east-1” exercises in staging.
 - Work on your MTTR!
@@ -173,7 +173,7 @@ As someone who recently got their [SAA-C03](Blog/Articles/How%20I%20passed%20the
 > - Mean time to repair (MTTR), also known as mean time to recovery, is the average time for a system or device to recover from a failure
 
 - Give your clients a fallback config!
-	- Build redundancy into your clients configuration with a fall back config from another region your client to talk to during a primary endpoint failure during a DNS outage.
+	- Build redundancy into your clients configuration with a fall back config from another region that your client can talk to during a primary endpoint failure because of a DNS outage.
 	- Your clients should also be able to "break gracefully" to minimizes disruption.
 - Avoid single-region dependencies
 	- Keys, ID Flags and more should be replicated to a second region if you want failover to work.
