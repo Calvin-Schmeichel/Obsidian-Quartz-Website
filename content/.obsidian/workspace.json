@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unlisted/Drafts/aws_outage_oct_2025.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aws_outage_oct_2025"
+              "title": "index"
             }
           },
           {
@@ -256,8 +256,8 @@
   },
   "active": "f1272963b62d96b3",
   "lastOpenFiles": [
+    "Blog/Articles/aws_outage_oct_2025.md",
     "Blog/Articles/How I passed the Solutions Architect Associate.md",
-    "Unlisted/Drafts/aws_outage_oct_2025.md",
     "Unlisted/Drafts/llm_docker_tailscale_update.md",
     "Blog/Posts/Deploying an LLM Model on my Own Server with Docker and Tailscale.md",
     "Blog/Posts/Creating a Proxmox Automation Script.md",
