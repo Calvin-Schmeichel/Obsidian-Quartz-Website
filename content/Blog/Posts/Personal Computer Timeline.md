@@ -16,7 +16,7 @@ Peripherals:
 - Logitech - G Pro (Hero) Wired Optical Gaming Mouse with LIGHTSYNC RGB Lighting - Black
 - Insignia™ - Mouse Pad - Black
 
-### January 3rd 2020 | Order Parts for my first PC
+### January 3rd 2020 | PC 1: Order Parts for my first PC
 https://pcpartpicker.com/list/4cjBvW
 Parts list:
 - ASUS - ROG Strix B450-F Gaming (Socket AM4) USB 3.1 Gen 2 AMD Motherboard with LED Lighting
@@ -61,7 +61,7 @@ Parts list:
 ### Fall 2022 | New Mouse
 - Logitech G PRO X SUPERLIGHT (Gift from friend)
 
-### February 8th 2024 | 2nd PC
+### February 8th 2024 | PC 2
 - AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor
 - ARCTIC Liquid Freezer II 360 56.3 CFM Liquid CPU Cooler
 - MSI MAG B650 TOMAHAWK WIFI ATX AM5 Motherboard
@@ -71,6 +71,27 @@ Parts list:
 - Fractal Design North ATX Mid Tower Case
 - Corsair RM1000e (2023) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply
 
-### November 29, 2024 | PC 1 Becomes a NAS
+### Nov 24, 2024
+- LG - UltraGear 27" QHD 240Hz 1ms NVIDIA G-SYNC and AMD FreeSync Premium with DisplayHDR 400 (HDMI, DisplayPort, USB) - Black
+
+### November 29, 2024 | PC 3 NAS
 - Seagate IronWolf 8TB NAS Internal Hard Drive HDD – 3.5 Inch SATA 6Gb/s 7200 RPM 256MB Cache for RAID Network Attached Storage – Frustration Free Packaging (ST8000VNZ04/N004) 
 - Fractal Design Define R5 - Mid Tower Computer Case - ATX - Optimized for High Airflow and Silent - 2X Fractal Design Dynamic GP-14 140mm Silent Fans Included - Water-Cooling Ready - Black
+
+### Jan 2, 2025
+- MSI - B550 TOMAHAWK MAX WIFI (Socket AM4) AMD B550 ATX DDR4 Wi-Fi 6E Motherboard - Black
+
+### Wed, Feb 5 2025
+- AMD RYZEN 5 5500 WRAITHS
+- GT710 2GD3 LP
+
+### 4/3/2025 PC 1 Becomes Proxmox Server
+
+###  Nov 15 2025
+- Intel Arc B580
+
+### Nov 19 2025
+- Corsair Ram
+- CPU Cooler Noc
+
+
