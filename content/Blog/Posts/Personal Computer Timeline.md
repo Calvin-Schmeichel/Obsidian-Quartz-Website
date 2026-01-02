@@ -92,6 +92,4 @@ Parts list:
 
 ### Nov 19 2025
 - Corsair Ram
-- CPU Cooler Noc
-
-
+- CPU Cooler Noctua

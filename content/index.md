@@ -3,6 +3,8 @@ title: Greetings
 cssclasses:
   - Rounded_Corners
   - Centered_Images
+aliases:
+  - Homepage
 ---
 ## This *Digital Garden* is where I show my interests and skills in Security, Technology and other related areas.
 ### [Posts](Blog/Posts/index.md)
