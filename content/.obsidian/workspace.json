@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a7ba94b6bd72da",
+        "id": "8697f6a38131e02f",
         "type": "tabs",
         "children": [
           {
-            "id": "b450bafd1a67dde4",
+            "id": "d301ea2c99b0577e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "unlisted/drafts/my_time_at_bestbuy/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -162,6 +166,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "b450bafd1a67dde4",
-  "lastOpenFiles": []
+  "active": "d301ea2c99b0577e",
+  "lastOpenFiles": [
+    "unlisted/drafts/Test.md",
+    "unlisted/drafts/index.md",
+    "unlisted/drafts/Demo Public.md",
+    "unlisted/drafts/Demo Private.md",
+    "unlisted/drafts/my_time_at_bestbuy/index.md",
+    "unlisted/drafts/begleri/index.md"
+  ]
 }

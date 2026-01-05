@@ -5,8 +5,6 @@ aliases:
 description: I worked at Best Buy retail for over 5 years. I wanted to share my experience.
 permalink: FF4FBE4F-76FF-4498-9AD2-08E53AE80CA2
 tags:
-  - Article
-  - Best_Buy
 date: 2025-12-28
 cssclasses:
   - Rounded_Corners
