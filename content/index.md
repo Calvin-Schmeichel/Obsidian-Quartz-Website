@@ -5,24 +5,41 @@ cssclasses:
   - Centered_Images
 aliases:
   - Homepage
+tags:
+  - Homepage
+  - Post
+  - Article
+  - About
 ---
 ## This *Digital Garden* is where I show my interests and skills in Security, Technology and other related areas.
-### [Posts](Blog/Posts/index.md)
+### #Post
 > This is where I share my quick thoughts, updates and other recent items.
-### [Articles](Blog/Articles/index.md)
+### #Article
 > More long form content in the fields of Technology and Security.
-### [About Calvin](About%20Calvin.md)
+### [#​About Calvin](about_me/about_calvin.md) 
+%% NOTE added a `U+200B` between #{U+200B}About Calvin" %%
 > Learn more about me!
-> - [[Calvin Schmeichel Resume Spring 2024|Resume]]
-> - [[Certifications]]
+> - [[about_me/Resume/Calvin Schmeichel Resume Spring 2024|Resume]]
+> - [[about_me/certifications|Certifications]]
 
 > [!cite] Recent Activity
-> - [I passed the AWS SAA!](How%20I%20passed%20the%20Solutions%20Architect%20Associate.md)
-> - [I went to DEF CON 33!](DEF%20CON%2033.md)
-> 
-> - [Creating a Proxmox Automation Script](Blog/Posts/Creating%20a%20Proxmox%20Automation%20Script.md)
-> 
-> - [Making Firefox Look Closer to Liquid Glass](Blog/Posts/Making%20Firefox%20Look%20Closer%20to%20Liquid%20Glass.md)
-> - [I went to FRSecure Hacks & Hops 2025!](Blog/Articles/frsecure_hacks_hops_2025.md)
+> - [I passed the AWS SAA!](blog/articles/2025/saa-c03/index.md)
+> - [I went to DEF CON 33!](blog/articles/2025/def_con_33/index.md)
+> - [Creating a Proxmox Automation Script](blog/posts/2025/Creating%20a%20Proxmox%20Automation%20Script.md)
+> - [Making Firefox Look Closer to Liquid Glass](blog/posts/2025/firefox_liquid_glass/index.md)
+> - [I went to FRSecure Hacks & Hops 2025!](blog/articles/2025/frsecure_hacks_hops_2025/index.md)
 
-[![[def_con-33_sign.jpg]]](DEF%20CON%2033.md)
+<p align="center">
+
+[<img src="blog/articles/2025/def_con_33/media/def_con-33_sign.jpg" width="600">](blog/articles/2025/def_con_33/index.md)
+
+</p>
+
+%%
+
+```
+[](blog/articles/2025/def_con_33/media/def_con-33_sign.jpg)
+[![[Blog/Articles/def_con_33/media/def_con-33_sign.jpg]]](blog/articles/2025/def_con_33/index.md)x.md)
+```
+
+%%

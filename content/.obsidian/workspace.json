@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "53ee08d59b06b2bb",
+    "id": "1e1273bca57d2421",
     "type": "split",
     "children": [
       {
-        "id": "a93d05fd29452849",
+        "id": "c6a7ba94b6bd72da",
         "type": "tabs",
         "children": [
           {
-            "id": "d664c06018766cec",
+            "id": "b450bafd1a67dde4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unlisted/Drafts/my_time_at_bestbuy/FF4FBE4F-76FF-4498-9AD2-08E53AE80CA2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FF4FBE4F-76FF-4498-9AD2-08E53AE80CA2"
-            }
-          },
-          {
-            "id": "841483e704b8618f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unlisted/Drafts/my_time_at_bestbuy/FF4FBE4F-76FF-4498-9AD2-08E53AE80CA2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FF4FBE4F-76FF-4498-9AD2-08E53AE80CA2"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0d9e64012fe088ff",
+    "id": "9d266fd8f007baf4",
     "type": "split",
     "children": [
       {
-        "id": "d0a0dd3d1b12ed0a",
+        "id": "8bad2b2abd01960c",
         "type": "tabs",
         "children": [
           {
-            "id": "b2debb7d4993f620",
+            "id": "ab6d131844442873",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,12 +44,12 @@
             }
           },
           {
-            "id": "16477668af822b79",
+            "id": "e59b3ca4e93b381d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "609669cc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +61,7 @@
             }
           },
           {
-            "id": "08336e68ca3055b6",
+            "id": "3ad2cc7d7f4b9a9b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "3d47f42df734496d",
+    "id": "2e1e1e85dbf7dc7c",
     "type": "split",
     "children": [
       {
-        "id": "66b046c510b718b9",
+        "id": "2b7f312b56e26d0a",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb4f68db68c6cf9",
+            "id": "1c0e27f4bd753410",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unlisted/Drafts/Creating a Proxmox Automation script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creating a Proxmox Automation script"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ab485c68aa2a50b3",
+            "id": "4e114ed3036fe4f5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unlisted/Drafts/Creating a Proxmox Automation script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Creating a Proxmox Automation script"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "6dbba9fd73c3ad64",
+            "id": "3f2af7473b86ce42",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,32 +131,17 @@
             }
           },
           {
-            "id": "ab7d8b4e2b7b3267",
+            "id": "9a6433f67e84e176",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unlisted/Drafts/Creating a Proxmox Automation script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Creating a Proxmox Automation script"
-            }
-          },
-          {
-            "id": "b850835ca0cb3b1d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
+              "title": "Outline"
             }
           }
         ]
@@ -198,37 +162,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "841483e704b8618f",
-  "lastOpenFiles": [
-    "Blog/Articles/How Clash Royale Deck Link manipulation got me into Programming.md",
-    "Unlisted/Drafts/my_time_at_bestbuy/FF4FBE4F-76FF-4498-9AD2-08E53AE80CA2.md",
-    "Unlisted/Drafts/Making a Begleri from a 12 Year Old Survival Bracelet.md",
-    "Unlisted/Drafts/my_time_at_bestbuy/media/bestbuy_2018.png",
-    "About Me/Resume/Best Buy Timeline.md",
-    "Blog/Posts/Personal Computer Timeline.md",
-    "Blog/Posts/blog.calvinschmeichel.com Brand Style Guide.md",
-    "Blog/Articles/aws_outage_oct_2025.md",
-    "index.md",
-    "Unlisted/Drafts/my_time_at_bestbuy/Untitled",
-    "Unlisted/Drafts/Untitled 1",
-    "Unlisted/Drafts/my_time_at_bestbuy",
-    "Unlisted/Media/my_time_at_bestbuy-FF4FBE4F-76FF-4498-9AD2-08E53AE80CA2",
-    "Blog/Posts/Making Firefox Look Closer to Liquid Glass.md",
-    "Blog/Posts/Deploying an LLM Model on my Own Server with Docker and Tailscale.md",
-    "Blog/index.md",
-    "About Me/About Calvin.md",
-    "Unlisted/Drafts/MacOS Demo Test.md",
-    "Unlisted/Drafts/Demo Public.md",
-    "Unlisted/Drafts/Demo Private.md",
-    "Blog/Posts/Creating a Proxmox Automation Script.md",
-    "Blog/Articles/DEF CON 33.md",
-    "Blog/Articles/frsecure_hacks_hops_2025.md",
-    "Blog/Articles/How I passed the Solutions Architect Associate.md",
-    "Unlisted/Drafts/llm_docker_tailscale_update.md",
-    "[Creating a Proxmox Automation script](Unlisted/Drafts/Creating a Proxmox Automation script.md",
-    "[Creating a Proxmox Automation script](Unlisted/Drafts",
-    "[Creating a Proxmox Automation script](Unlisted",
-    "Blog/Articles/My favorite things from WWDC 2025.md",
-    "Unlisted/Drafts/smb test.md"
-  ]
+  "active": "b450bafd1a67dde4",
+  "lastOpenFiles": []
 }

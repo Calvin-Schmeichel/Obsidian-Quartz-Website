@@ -1,0 +1,51 @@
+---
+title: CES 2025
+aliases:
+  - Consumer Electronics Show 2025
+cssclasses:
+  - Centered_Images
+  - Centered_Tables
+  - Rounded_Corners
+date: 2025-01-12
+tags:
+  - Article
+  - CES
+---
+%%
+### Year 4!
+
+CES (Consumer Electronics Show) 2025 was my 4th year attending the show! I am so grateful I got to go this year with my dad. Here are some of my highlights from the show.
+
+### Intel: Thunderbolt Share
+
+[Intel's](https://www.intel.com/content/www/us/en/download/822291/thunderbolt-share.html) "[Thunderbolt Share](https://www.ces.tech/ces-innovation-awards/2025/thunderbolt-share/)" allows you to connect 2 PC's over a thunderbolt cable which unlocks the ability to screenshare, drag and drops files and control the other PC within a managed window.
+[[media/CES2025-Intel_Thunderbolt_Share.jpg|500]]
+%%
+### Year 4!
+
+CES 2025 marked my fourth time attending this incredible showcase of innovation, and it didn’t disappoint! This year was particularly special because I got to share the experience with my dad, who also works in the infosec field. From groundbreaking technologies to creative presentations, here are some of my favorite highlights from the event.
+### Intel Thunderbolt Share
+
+Intel's Thunderbolt Share is a game-changing innovation that enables seamless connectivity between two PCs. By simply connecting them via a Thunderbolt cable, you can share screens, drag and drop files, and even control the other PC all within a managed window. It’s an elegant solution for file transfers and collaboration, avoiding the hassle of setting up file servers or relying on cloud storage.
+![[media/CES2025-Intel_Thunderbolt_Share.jpg|500]]
+### BMW Panoramic iDrive Display
+I got to attend BMW's live show featuring [Tim Meadows](https://www.imdb.com/name/nm0005218/) and [Ken Jeong](https://www.imdb.com/name/nm0421822/), where they showcased their new Panoramic iDrive display for 2025 models. What stood out was the display’s unconventional design it wasn’t a typical rectangle. Instead, the top-left and bottom-right corners were angled and cut off.
+![](media/CES2025-BMW_Tim_Meadows_Ken_Jeong.jpg)
+Curious about the design, I spoke to one of BMW’s lead software designers. The reasoning behind this was ergonomics. The top-left corner was cut to prevent the display from protruding into the driver’s field of vision, reducing distractions. The bottom-right corner was angled for symmetry, though they joked that this was their only "design" decision unrelated to ergonomics. Additionally, the slanted sides ensure the display avoids obstructing the steering wheel or requiring the driver to look too far away from the road.
+![](media/CES2025-BMW_iDrive_Display_Set.jpg)
+Alongside the unique display shape, BMW introduced a revamped UI with up to six customizable widgets and a new AI assistant to handle secondary controls, like adjusting the air conditioning or fan settings. It’s clear that BMW is aiming to blend innovation with functionality, and their efforts definitely left an impression.
+### Paper Batteries
+The Flint booth introduced me to something I have to look more into: Paper batteries! The concept of lightweight, sustainable, and versatile energy sources was fascinating. This was a perfect example of how CES showcases ideas that can redefine entire industries.
+![[media/CES2025-Flint_Batteries.jpg|500]]
+### 3M Booth
+As a Cloud Risk Analyst at 3M, it was exciting to see my company’s booth showcasing cutting-edge advancements in engineering and manufacturing. Seeing how other 3M'ers work contributes to innovations that are shaping the world was great to see. It was awesome to see my own company on the show floor!
+![](media/CES2025-3M_Booth.jpg)
+### Sony "The Last of Us" Immersive Concept
+The experience took place in a private, camera-free environment. An actor briefed us on the situation and told us we were survivors trying to escape a parking ramp overrun with infected. We used 3D-printed prototype controllers designed for PlayStation VR, mimicking flashlights with motion tracking and shotguns with tactile recoil. The room was surrounded by screens rendering the game environment in real time, with props like ivy and fog adding to the setting. The flashlights illuminated the game scene, while the shotguns provided recoil as we defended ourselves from clickers and infected. The environment was rendered using the Last of Us Part II Remastered game engine.
+Sony took immersion to the next level with their Last of Us experience. Stepping into this detailed and realistic world was unforgettable, especially as a fan of the series. It felt like a seamless blend of gaming and reality, demonstrating how far storytelling and technology have come. I am really excited to see where this technology gets implemented! (Theme parks? New VR controllers?).
+![](media/CES2025-Sony_LoU.jpg)
+### NVIDIA RTX 5090 & Blueprints
+NVIDIA was there as well! They showed off their RTX 5090 series GPU, with its slimmer design and improved cooling, opens up exciting opportunities for high-performance builds. What caught my attention even more was their [Build with NVIDIA website](https://build.nvidia.com/explore/discover). It offers templates for AI and LLM-related projects that can run locally a resource I’m already planning to explore for a future project!
+![[media/CES2025_Nvidia_RTX5090.jpg|500]]
+### Goodbye, for now.
+Overall, CES 2025 was an incredible experience, and I’m so grateful to have had the opportunity to attend. Seeing the future of technology firsthand always leaves me inspired and excited for what’s to come. From groundbreaking innovations to immersive experiences, this year’s event was a reminder of how rapidly the world is evolving and I can’t wait to see how these technologies shape the future.

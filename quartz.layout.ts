@@ -34,7 +34,7 @@ export const defaultContentPageLayout: PageLayout = {
       folderClickBehavior: "link",
       folderDefaultState: "collapsed",
       filterFn: (node) => {
-        if (["Media", "Drafts", "Unlisted"].includes(node.name)) {
+        if (["media", "drafts", "unlisted"].includes(node.name)) {
           return false;
         }
         return true;
@@ -62,9 +62,11 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     //Component.Search(),
     //Component.Darkmode(),
-    //Component.DesktopOnly(Component.Explorer()),
+    //Component.DesktopOnly(Component.Explorer()), // added for testing for articles as index files
   ],
-  right: [],
+  right: [
+    Component.DesktopOnly(Component.TableOfContents()) // added for testing for articles as index files
+  ],
   header: [
     Component.PageTitle(),
     Component.Search(),
