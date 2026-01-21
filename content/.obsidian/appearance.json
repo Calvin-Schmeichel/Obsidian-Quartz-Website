@@ -7,5 +7,6 @@
     "Centered_Tables",
     "Centered_Embeds"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": true
 }

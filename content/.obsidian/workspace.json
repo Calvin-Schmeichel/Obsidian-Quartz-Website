@@ -4,17 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "8697f6a38131e02f",
+        "id": "385624839c9fb314",
         "type": "tabs",
         "children": [
           {
-            "id": "3a23baff4a75ad42",
+            "id": "38e395b8c7936f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "unlisted/drafts/ces_2026/index.md",
                 "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "8450a559c82627ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/articles/2025/my_time_at_bestbuy/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "5fa107456ff7a03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/articles/2025/ces_2025/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3abc36c5df701dd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2222f410a40cf2dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/articles/2025/def_con_33/index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -166,15 +214,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a23baff4a75ad42",
+  "active": "38e395b8c7936f39",
   "lastOpenFiles": [
+    "blog/articles/2025/def_con_33/index.md",
+    "unlisted/drafts/ces_2026/index.md",
+    "blog/articles/2025/ces_2025/index.md",
     "blog/articles/2025/my_time_at_bestbuy/index.md",
+    "unlisted/drafts/ces_2026/media/ces_2026_sign.jpg",
+    "unlisted/drafts/ces_2026/media/8bitdo-flippad-ces_2026.jpg",
+    "unlisted/drafts/ces_2026/media/ipolish-ces_2026.jpg",
+    "unlisted/drafts/ces_2026/media/nvidia-ces_2026.jpg",
+    "blog/articles/2026/ces_2026/Untitled.md",
+    "about_me/Resume/Best Buy Timeline.md",
+    "unlisted/drafts/ces_2026/media/asus-oled-ces_2026.jpg",
+    "unlisted/drafts/ces_2026/media/lg-bot-ces_2026.jpg",
+    "unlisted/drafts/ces_2026/media/stegai-ces_2026.jpg",
+    "unlisted/drafts/ces_2026/media",
+    "unlisted/drafts/ces_2026",
+    "blog/articles/2026",
     "index.md",
     "blog/articles/2025/my_time_at_bestbuy/media/bestbuy_2018.png",
     "unlisted/drafts/my_time_at_bestbuy/Untitled.md",
     "blog/posts/2024/Personal Computer Timeline.md",
-    "about_me/Resume/Best Buy Timeline.md",
-    "blog/articles/2025/ces_2025/index.md",
     "unlisted/drafts/Test.md",
     "unlisted/drafts/index.md",
     "unlisted/drafts/Demo Public.md",

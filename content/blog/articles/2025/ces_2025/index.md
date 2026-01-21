@@ -2,6 +2,7 @@
 title: CES 2025
 aliases:
   - Consumer Electronics Show 2025
+  - CES 2025
 cssclasses:
   - Centered_Images
   - Centered_Tables
