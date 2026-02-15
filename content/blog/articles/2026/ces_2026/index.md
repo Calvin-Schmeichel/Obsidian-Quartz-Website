@@ -19,7 +19,7 @@ I had the privilege to attend CES once again in 2026. As always, it was a great 
 
 ### LG CLOiD Home Robot
 
-LG announced and showed off its new LG CLOiD robot, which they claim is a “Zero Labor Home” robot to help with tasks at home. On the show floor, LG had a live demo running of the bot inside a laundry room, with a video playing of multiple examples of use cases. One case was being able to call the bot to start some tasks, such as putting food in the oven, prepping gym clothes on the couch, etc. Another one was general cleaning, such as finding your car keys on the floor and putting them away, and also the ability to control other smart devices in your home, such as a smart vacuum, sort of becoming a command center for your smart home.
+LG announced and showed off its new LG CLOiD robot, which they claim is a "Zero Labor Home” robot to help with tasks at home. On the show floor, LG had a live demo running of the bot inside a laundry room, with a video playing of multiple examples of use cases. One case was being able to call the bot to start some tasks, such as putting food in the oven, prepping gym clothes on the couch, etc. Another one was general cleaning, such as finding your car keys on the floor and putting them away, and also the ability to control other smart devices in your home, such as a smart vacuum, sort of becoming a command center for your smart home.
 
 The biggest thing will be cost with this product. I think the concept of a humanoid robot that does the mundane tasks for you around your home is appealing, but the cost will be a major factor.
 
@@ -55,7 +55,7 @@ NVIDIA launched their new Rubin platform for the data center with a focus on AI 
 
 steg.ai is a steganography product that allows you to digitally watermark your images with a [C2PA content credential](https://c2pa.org). This can better allow you to detect edits to an image as well as help prevent leaks to the internet via DLP. Additionally, in the unfortunate case where there is a leak, you can use these digital watermarks as a tracker to see where the leak originated from.
 
-On the show floor today, they were showing off a new product that “poisons” your facial data within an image, so if it gets uploaded to a deepfake tool it fails to create a successful output (the video gets completely dismantled). I think this technology could be promising, but I think the real challenge is the cat-and-mouse game as these AI tools get better at circumventing these protections.
+On the show floor today, they were showing off a new product that "poisons” your facial data within an image, so if it gets uploaded to a deepfake tool it fails to create a successful output (the video gets completely dismantled). I think this technology could be promising, but I think the real challenge is the cat-and-mouse game as these AI tools get better at circumventing these protections.
 
 <p align="center"><img src="media/stegai-ces_2026.jpg"  alt="![](media/stegai-ces_2026.jpg)" width="600"></p>
 
@@ -66,7 +66,7 @@ On the show floor today, they were showing off a new product that “poisons” 
 
 ### iPolish
 
-iPolish launched their new “Smart Nails” product, which are temporary nails that can be electronically color-changed on the fly within seconds. This allows for shifting between more than 400 shades of color while only taking about 5 seconds per color shift.
+iPolish launched their new "Smart Nails” product, which are temporary nails that can be electronically color-changed on the fly within seconds. This allows for shifting between more than 400 shades of color while only taking about 5 seconds per color shift.
 
 <p align="center"><img src="media/ipolish-ces_2026.jpg"  alt="![](media/ipolish-ces_2026.jpg)" width="600"></p>
 
@@ -89,7 +89,7 @@ But these new OLED panels that LG Display has developed with a standard RGB subp
 
 <p align="center"><img src="media/asus-oled-ces_2026.jpg"  alt="![](media/asus-oled-ces_2026.jpg)" width="600"></p>
 
-The ASUS ROG Swift OLED PG27UCWM monitor uses a tandem OLED panel with `0.03ms` response times and a “Dual-Mode” feature, which allows the monitor to do `4K@240Hz` and `FHD@480Hz`, which is amazing. The panel color quality looked great in person as well.
+The ASUS ROG Swift OLED PG27UCWM monitor uses a tandem OLED panel with `0.03ms` response times and a "Dual-Mode” feature, which allows the monitor to do `4K@240Hz` and `FHD@480Hz`, which is amazing. The panel color quality looked great in person as well.
 
 > *This might need to be my new monitor*
 
@@ -102,7 +102,7 @@ The ASUS ROG Swift OLED PG27UCWM monitor uses a tandem OLED panel with `0.03ms` 
 
 ### 8BitDo FlipPad
 
-Finally, 8BitDo showed off their new “FlipPad” device, a USB-powered gamepad for your mobile phone. This allows you to use real tactile buttons instead of traditional touchscreen controls, which don’t feel as intuitive or easy to play with. The main appeal of this device is the fact that it becomes part of your phone, so you can hold it while on the go. It’s not a separate controller that you need to hold while your phone is on a kickstand, etc. I had a vision of a device like this years ago and wished someone had made it, and here we are. 8BitDo claims it’s coming this summer, and I am excited to get my hands on it again when it fully releases.
+Finally, 8BitDo showed off their new "FlipPad” device, a USB-powered gamepad for your mobile phone. This allows you to use real tactile buttons instead of traditional touchscreen controls, which don’t feel as intuitive or easy to play with. The main appeal of this device is the fact that it becomes part of your phone, so you can hold it while on the go. It’s not a separate controller that you need to hold while your phone is on a kickstand, etc. I had a vision of a device like this years ago and wished someone had made it, and here we are. 8BitDo claims it’s coming this summer, and I am excited to get my hands on it again when it fully releases.
 
 <p align="center"><img src="media/8bitdo-flippad-ces_2026.jpg"  alt="![](media/8bitdo-flippad-ces_2026.jpg)" width="300"></p>
 
