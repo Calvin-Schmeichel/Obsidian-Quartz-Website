@@ -6,5 +6,6 @@
   "userIgnoreFilters": [
     "/media/",
     "/media"
-  ]
+  ],
+  "vimMode": false
 }

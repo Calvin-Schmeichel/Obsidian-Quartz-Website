@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e7faefd6c89edf22",
+        "id": "3b5d997b55053c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "1d3b52eb4044db91",
+            "id": "2264cb32c9e5c330",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/posts/2026/best_buy_job/index.md",
+                "file": "unlisted/drafts/unemployment_2025/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -166,13 +166,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "1d3b52eb4044db91",
+  "active": "2264cb32c9e5c330",
   "lastOpenFiles": [
+    "blog/posts/2025/Creating a Proxmox Automation Script.md",
+    "blog/articles/2025/def_con_33/index.md",
+    "blog/articles/2025/aws_outage_oct_2025.md",
+    "unlisted/drafts/unemployment_2025/index.md",
+    "blog/articles/2026/ces_2026/index.md",
+    "blog/articles/2025/my_time_at_bestbuy/index.md",
+    "blog/posts/2025/llm_docker_tailscale_update.md",
+    "blog/articles/2025/saa-c03/index.md",
+    "blog/articles/2025/frsecure_hacks_hops_2025/index.md",
+    "blog/posts/2026/best_buy_job/index.md",
     "blog/posts/2026/best_buy_job/media/bby_how_its_going.png",
     "index.md",
-    "unlisted/drafts/unemployment_2025/index.md",
-    "blog/articles/2025/my_time_at_bestbuy/index.md",
-    "blog/posts/2026/best_buy_job/index.md",
     "unlisted/drafts/unemployment_2025/media",
     "unlisted/drafts/unemployment_2025",
     "about_me/Resume/Best Buy Timeline.md",
@@ -181,8 +188,6 @@
     "blog/posts/2026/best_buy_job",
     "blog/posts/2026",
     "blog/articles/2026/Untitled",
-    "blog/articles/2026/ces_2026/index.md",
-    "blog/articles/2025/def_con_33/index.md",
     "blog/articles/2025/ces_2025/index.md",
     "blog/articles/2026/ces_2026/media/ces_2026_sign.jpg",
     "blog/articles/2026/ces_2026/media/8bitdo-flippad-ces_2026.jpg",
