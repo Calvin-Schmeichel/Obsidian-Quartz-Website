@@ -14,7 +14,7 @@ cssclasses:
   - Centered_Images
 ---
 
-### Re: [index](tailscale_llm/index.md)
+### Re: [Debian WSL Docker ollama install](tailscale_llm/index.md)
 
 A lot has changed in my Homelab since that last post about my AI/Ollama configuration. I figured it was time to update what it looks like today.
 

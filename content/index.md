@@ -25,6 +25,7 @@ tags:
 > [!cite] Recent Activity
 > - [I went to CES 2026!](blog/articles/2026/ces_2026/index.md)
 > - [My Time at Best Buy](blog/articles/2025/my_time_at_bestbuy/index.md)
+> - [What I did during my Unemployment](blog/articles/2026/unemployment_2025/index.md)
 %% > - [I passed the AWS SAA!](blog/articles/2025/saa-c03/index.md)
 > - [I went to DEF CON 33!](blog/articles/2025/def_con_33/index.md)
 > - [Creating a Proxmox Automation Script](blog/posts/2025/Creating%20a%20Proxmox%20Automation%20Script.md)
