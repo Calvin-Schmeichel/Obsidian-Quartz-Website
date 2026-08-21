@@ -4,7 +4,7 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
+#.obsidian
 .quartz-cache
 private/
 .replit
@@ -12,3 +12,10 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+
+#Custom
+.Identifier
+.trash
+._.DS_Store
+._*
