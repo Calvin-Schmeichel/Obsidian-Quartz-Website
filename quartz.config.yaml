@@ -1,6 +1,9 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Calvin Schmeichel #Quartz 5
+  pageTitle: |-
+    Calvin
+    Schmeichel 
+  # Quartz 5
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -192,10 +195,10 @@ plugins:
       position: beforeBody
       priority: 100
   - source: "@quartz-community/tag-list"
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
-      priority: 30
+      priority: 101 #30
   - source: "@quartz-community/page-title"
     enabled: true
     layout:
@@ -292,8 +295,9 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions:
-        right: []
+        #- table-of-contents
+      #positions:
+        #right: []
     tag:
       exclude:
         - reader-mode
