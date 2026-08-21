@@ -1,3 +1,32 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.search {
+  margin-left: auto;
+}
+
+.content-meta {
+  color: var(--gray);
+}
+
+.page-title a {
+  white-space: pre-line;
+  line-height: 1.05;
+}
+
+.Centered_Images img {
+    display: block;
+    margin: 1rem auto;
+  }
+
+.Centered_Tables table,
+.Centered_Tables .table-wrapper {
+  margin-inline: auto;
+}
+
+.Centered_Embeds .external-embed{
+	display: block;
+	max-width: 768px;
+	margin-left: auto;
+	margin-right: auto;
+}
