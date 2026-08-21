@@ -1,0 +1,11 @@
+{
+	"id": "url-into-selection-with-wiki",
+	"name": "URL Into Selection with Wiki",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Updated version of the url-into-selection plugin to support wikilinks",
+	"author": "Original by denolehov Fixed by ryanwwest",
+	"authorUrl": "https://github.com/ryanwwest/obsidian-url-into-selection/commit/01d5db199cfe7337663cacb70a990d56baff1817d",
+	"fundingUrl": "github.com/denolehov/obsidian-url-into-selection/issues/31",
+	"isDesktopOnly": false
+}

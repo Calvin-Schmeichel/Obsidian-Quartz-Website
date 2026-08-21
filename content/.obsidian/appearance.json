@@ -1,0 +1,12 @@
+{
+  "accentColor": "#5c9ef5",
+  "enabledCssSnippets": [
+    "temp",
+    "Centered_Images",
+    "Rounded_Corners",
+    "Centered_Tables",
+    "Centered_Embeds"
+  ],
+  "theme": "obsidian",
+  "showViewHeader": true
+}

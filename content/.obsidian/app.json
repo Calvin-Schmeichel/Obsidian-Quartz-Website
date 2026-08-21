@@ -1,0 +1,11 @@
+{
+  "showInlineTitle": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "/media/",
+    "/media"
+  ],
+  "vimMode": false
+}
