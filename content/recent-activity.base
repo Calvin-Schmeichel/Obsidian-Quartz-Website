@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.hasProperty("unlisted")'
+        - file.hasProperty("permalink")
+    order:
+      - title
+      - date
+    sort:
+      - property: date
+        direction: DESC

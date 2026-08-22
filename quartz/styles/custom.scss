@@ -14,6 +14,46 @@
   line-height: 1.05;
 }
 
+footer > p {
+  display: none;
+}
+
+footer::before {
+  content: "Made by Calvin Schmeichel © 2026";
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+footer > ul {
+  margin-top: 0;
+}
+
+// Capitalises .base files Exmaple articles --> Articles
+body[data-slug$=".base"] .article-title {
+  text-transform: capitalize;
+}
+
+// Custom clean centered 404
+body[data-slug="404"] .page-header,
+body[data-slug="404"] footer {
+  display: none;
+}
+
+body[data-slug="404"] .center.full-width > hr {
+  display: none;
+}
+
+body[data-slug="404"] .center.full-width > article.popover-hint {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+// Obsidian Parity Configs
+
 .Centered_Images img {
     display: block;
     margin: 1rem auto;

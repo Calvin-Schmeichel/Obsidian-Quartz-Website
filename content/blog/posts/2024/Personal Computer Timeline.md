@@ -1,4 +1,5 @@
 ---
+title: Personal Computer Timeline
 cssclasses:
   - Rounded_Corners
 date: 2024-06-13

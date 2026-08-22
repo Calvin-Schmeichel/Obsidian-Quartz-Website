@@ -11,18 +11,19 @@ tags:
   - Article
   - About
 ---
+### [Homepage](index.md) [Posts](posts.base) [Articles](articles.base) [About](about_me/about_calvin.md)
 ## This *Digital Garden* is where I show my interests and skills in Security, Technology and other related areas.
-### #Post
+### [#Posts](posts.base)
 > This is where I share my quick thoughts, updates and other recent items.
-### #Article
+### [#Articles](articles.base)
 > More long form content in the fields of Technology and Security.
-### [#​About Calvin](about_me/about_calvin.md) 
-%% NOTE added a `U+200B` between #{U+200B}About Calvin" %%
+### [About Calvin](about_me/about_calvin.md)
+%% OLD NOTE added a `U+200B` between #{U+200B}About Calvin" |  [#​About Calvin](about_me/about_calvin.md) %%
 > Learn more about me!
 > - [[about_me/Resume/Calvin Schmeichel Resume Spring 2024|Resume]]
 > - [[about_me/certifications|Certifications]]
 
-> [!cite] Recent Activity
+> [!cite] ***[Recent Activity](recent-activity.base)***
 > - [I went to CES 2026!](blog/articles/2026/ces_2026/index.md)
 > - [My Time at Best Buy](blog/articles/2025/my_time_at_bestbuy/index.md)
 > - [What I did during my Unemployment](blog/articles/2026/unemployment_2025/index.md)

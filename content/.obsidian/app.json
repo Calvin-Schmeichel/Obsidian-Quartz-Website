@@ -7,5 +7,6 @@
     "/media/",
     "/media"
   ],
-  "vimMode": false
+  "vimMode": false,
+  "settingsPopoutWindow": false
 }

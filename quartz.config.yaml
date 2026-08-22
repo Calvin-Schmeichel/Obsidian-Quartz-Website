@@ -86,6 +86,7 @@ plugins:
     layout:
       position: right
       priority: 30
+      condition: not-index
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
@@ -149,7 +150,7 @@ plugins:
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false #true
   - source: "@quartz-community/cname"
     enabled: true
   - source: "@quartz-community/canvas-page"
@@ -158,10 +159,12 @@ plugins:
     enabled: true
   - source: "@quartz-community/folder-page"
     enabled: true
+    options:
+      showFolderCount: false
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
@@ -195,7 +198,7 @@ plugins:
       position: beforeBody
       priority: 100
   - source: "@quartz-community/tag-list"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 101 #30
@@ -218,7 +221,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
@@ -235,9 +238,11 @@ plugins:
     enabled: true
     options:
       links:
-        GitHubs: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
-    layout:
+        Home: /
+        Top: "#"
+        GitHub: https://github.com/Calvin-Schmeichel
+        LinkedIn: https://www.linkedin.com/in/calvinschmeichel/
+        calvinschmei.ch/el/: https://calvinschmei.ch/el/
       position: footer
       priority: 50
   - source: "@quartz-community/recent-notes"
@@ -273,35 +278,30 @@ plugins:
       priority: 15
       display: all
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
     order: 50
 layout:
-  groups:
-    toolbar:
-      priority: 35
-      direction: row
-      gap: 0.5rem
   byPageType:
     "404":
+      template: full-width
       positions:
         beforeBody: []
         left: []
         right: []
-    content: {}
-    folder:
+
+    content:
       exclude:
-        - reader-mode
-        #- table-of-contents
-      #positions:
-        #right: []
+        - "@quartz-community/content-meta"
+        - "@quartz-community/backlinks"
+    folder: {}
+
     tag:
-      exclude:
-        - reader-mode
       positions:
         right: []
+
     canvas: {}
     bases: {}

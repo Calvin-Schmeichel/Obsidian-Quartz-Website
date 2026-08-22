@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "12b2462a1f71d8f7",
+        "id": "3cf5f742456b908d",
         "type": "tabs",
         "children": [
           {
-            "id": "f97e084f340fce99",
+            "id": "1488dae9827d8be6",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "articles.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "articles"
+            }
+          },
+          {
+            "id": "b3a14d66e791a088",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +33,51 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "c437de9dee26e905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/posts/2024/Personal Computer Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Personal Computer Timeline"
+            }
+          },
+          {
+            "id": "03718ff91fbd80de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/posts/2024/firstpost.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "firstpost"
+            }
+          },
+          {
+            "id": "1342654eed7e0416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/articles/2024/My Thoughts on SOC 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Thoughts on SOC 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +97,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,24 +221,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "quartz-syncer:Quartz Syncer publication center": false
     }
   },
-  "active": "f97e084f340fce99",
+  "active": "b3a14d66e791a088",
   "lastOpenFiles": [
+    "articles.base",
+    "index.md",
+    "blog/articles/2025/saa-c03/index.md",
+    "blog/articles/2024/My Thoughts on SOC 2.md",
+    "blog/articles/2025/How Large Language Models can help Conduct Cyber Attacks.md",
+    "blog/articles/2025/ces_2025/index.md",
+    "articles.md",
+    "posts.base",
+    "blog/posts/2024/firstpost.md",
+    "blog/posts/2024/Personal Computer Timeline.md",
+    "recent-activity.base",
+    "about_me/about_calvin.md",
+    "recent_activity.base.md",
+    "blog/articles/2026/ces_2026/index.md",
     "blog/articles/2026/unemployment_2025/index.md",
     "blog/posts/2025/tailscale_llm/index.md",
     "blog/posts/2025/llm_docker_tailscale_update.md",
     "blog/posts/2025/Creating a Proxmox Automation Script.md",
     "blog/articles/2025/def_con_33/index.md",
     "blog/articles/2025/aws_outage_oct_2025.md",
-    "blog/articles/2026/ces_2026/index.md",
     "blog/articles/2025/my_time_at_bestbuy/index.md",
-    "blog/articles/2025/saa-c03/index.md",
     "blog/articles/2025/frsecure_hacks_hops_2025/index.md",
     "blog/posts/2026/best_buy_job/index.md",
     "blog/posts/2026/best_buy_job/media/bby_how_its_going.png",
-    "index.md",
     "blog/articles/2026/unemployment_2025/media",
     "blog/articles/2026/unemployment_2025",
     "about_me/Resume/Best Buy Timeline.md",
@@ -188,7 +258,6 @@
     "blog/posts/2026/best_buy_job",
     "blog/posts/2026",
     "blog/articles/2026/Untitled",
-    "blog/articles/2025/ces_2025/index.md",
     "blog/articles/2026/ces_2026/media/ces_2026_sign.jpg",
     "blog/articles/2026/ces_2026/media/8bitdo-flippad-ces_2026.jpg",
     "blog/articles/2026/ces_2026/media/ipolish-ces_2026.jpg",
@@ -198,15 +267,9 @@
     "blog/articles/2026/ces_2026/media/lg-bot-ces_2026.jpg",
     "blog/articles/2026/ces_2026/media/stegai-ces_2026.jpg",
     "blog/articles/2026/ces_2026/media",
-    "blog/articles/2026/ces_2026",
-    "blog/articles/2026",
     "blog/articles/2025/my_time_at_bestbuy/media/bestbuy_2018.png",
     "unlisted/drafts/my_time_at_bestbuy/Untitled.md",
-    "blog/posts/2024/Personal Computer Timeline.md",
     "unlisted/drafts/Test.md",
-    "unlisted/drafts/index.md",
-    "unlisted/drafts/Demo Public.md",
-    "unlisted/drafts/Demo Private.md",
-    "unlisted/drafts/begleri/index.md"
+    "unlisted/drafts/index.md"
   ]
 }

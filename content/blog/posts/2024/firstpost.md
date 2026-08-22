@@ -5,6 +5,7 @@ description: Test/Demo of a website post
 tags:
   - Post
 date: 2024-05-07
+title: First Post
 ---
 # Hello!! Here are my socials:
 

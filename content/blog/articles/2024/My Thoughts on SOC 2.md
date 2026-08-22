@@ -1,4 +1,5 @@
 ---
+title: My Thoughts on SOC 2
 date: 2024-05-29
 tags:
   - Article

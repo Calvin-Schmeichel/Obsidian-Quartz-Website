@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Article")
+        - title != "Greetings"
+    order:
+      - title
+      - date
